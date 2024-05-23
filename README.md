@@ -3,7 +3,7 @@
 
 
 
-# <p align="center"> ⨋ Math 
-### <p align="center"> ✍️ Math Exercises - AI Data Science - PUCSP University
+# <p align="center"> ✍️ Math - Limits Exercises
+### <p align="center"> AI Data Science - PUCSP University Repository
 
 
