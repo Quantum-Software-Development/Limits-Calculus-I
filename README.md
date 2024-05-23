@@ -20,10 +20,10 @@ To solve this limit, we can use factorization:
 <br>
 
 $$\[
-\begin{align*}
-\lim_{x \to 3}\frac{x^{2}-9}{x-3} &= \lim_{x \to 3}\frac{(x+3)(x-3)}{x-3} \\
-&= \lim_{x \to 3}(x+3) \\
-&= 3+3 \\
+\begin{align*}\
+lim_{x \to 3}\frac{x^{2}-9}{x-3} &= \lim_{x \to 3}\frac{(x+3)(x-3)}{x-3}\\
+&=\lim_{x \to 3}(x+3)\\
+&= 3+3\\
 &= 6
 \end{align*}
 \]$$
