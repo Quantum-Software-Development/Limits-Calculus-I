@@ -3,10 +3,11 @@
 
 
 
-## <p align="center"> ✍️ Math - Calculus- Limits and Derivatives Exercises
+## <p align="center"> ✍️ Mathematics Solutions - Calculus  Limits and Derivatives Exercises
 #### <p align="center"> AI Data Science - PUCSP University Repository
 
 <br><br>
+
 
 
 
