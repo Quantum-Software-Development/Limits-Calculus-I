@@ -3,16 +3,19 @@
 
 <br><br>
 
-## <p align="center"> ✍️ # Resolution of Mathematics Exercises - Calculus - Limits and Derivatives
+# <p align="center"> ✍️ # Resolution of Mathematics Exercises - Calculus - Limits and Derivatives
 
 #### <p align="center"> AI Data Science - PUCSP University Repository
 
 <br><br>
 
-### 1. Find the limits:
+## 1. Find the limits:
 
-### a) $$\(\lim_{{x \to 3}} \frac{{x^2 - 9}}{x - 3}\)$$
+### a) $$\(\lim_{x \to 3}\frac{x^{2}-9}{x-3}\)$$
 
+
+
+#
 
 
 
