@@ -1,3 +1,3 @@
 
-# <p align="center"> ⨋ Math - Limits
-# <p align="center"> ∛Math Exercises
+# <p align="center"> ⨋ Math 
+#### <p align="center"> Limits Exercises
