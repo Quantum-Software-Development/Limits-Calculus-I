@@ -11,6 +11,9 @@
 
 ### 1. Find the limits:
 
+#### a) $$\(\lim_{{x \to 3}} \frac{{x^2 - 9}}{x - 3}\)$$
+
+
 
 
 
