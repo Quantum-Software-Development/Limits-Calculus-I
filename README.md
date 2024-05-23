@@ -3,8 +3,12 @@
 
 <br><br>
 
-## <p align="center"> ✍️ Mathematics Solutions - Calculus  Limits and Derivatives Exercises
+## <p align="center"> ✍️ # Resolution of Mathematics Exercises - Calculus - Limits and Derivatives
+
 #### <p align="center"> AI Data Science - PUCSP University Repository
+
+
+### 1. Find the limits:
 
 <br><br>
 
