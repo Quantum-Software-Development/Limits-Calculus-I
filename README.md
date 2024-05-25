@@ -35,14 +35,14 @@ $$\[
 
 Again, we can use factorization:
 
-\[
+$$\[
 \begin{align*}
 \lim_{{x \to -7}} \frac{{49 - x^2}}{{7 + x}} &= \lim_{{x \to -7}} \frac{{(7 + x)(7 - x)}}{{7 + x}} \\
 &= \lim_{{x \to -7}} (7 - x) \\
 &= -7 - 7 \\
 &= -14
 \end{align*}
-\]
+\]$$
 
 
 
