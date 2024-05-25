@@ -33,6 +33,8 @@ $$\[
 
 #### 1b) $$\(\lim_{x \to -7}\frac{49-x^{2}}{7+x}\)$$
 
+Again, we can use factorization:
+
 
 
 
