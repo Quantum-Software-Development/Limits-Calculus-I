@@ -1,12 +1,72 @@
 
-![f498ef67-5076-47cb-be8d-bab9e730b976](https://github.com/Quantum-Software-Development/Math/assets/113218619/58c8c407-2971-4a65-9030-e25d76617687)
+ <p align="center">
+<img src=""https://github.com/Quantum-Software-Development/Math/assets/113218619/58c8c407-2971-4a65-9030-e25d76617687"/>
 
+<br><br>
 
+# <p align="center"> ✍️ # Resolution of Mathematics Exercises - Calculus - Limits and Derivatives
 
-## <p align="center"> ✍️ Mathematics Solutions - Calculus  Limits and Derivatives Exercises
 #### <p align="center"> AI Data Science - PUCSP University Repository
 
 <br><br>
+
+## 1. Find the limits:
+
+#### 1a) $$\(\lim_{x \to 3}\frac{x^{2}-9}{x-3}\)$$
+
+<br>
+
+To solve this limit, we can use factorization:
+
+<br>
+
+$$\[
+\begin{align*}
+\lim_{x \to 3}\frac{x^{2}-9}{x-3} &= \lim_{x \to 3}\frac{(x+3)(x-3)}{x-3} \\
+&= \lim_{x \to 3}(x+3) \\
+&= 3+3 \\
+&= 6
+\end{align*}
+\]$$
+
+#
+
+#### 1b) $$\(\lim_{x \to -7}\frac{49-x^{2}}{7+x}\)$$
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#
+
+######  <p align="center"> [Copyright 2024 Quantum-Software-Development. Code released under the MIT license.](https://github.com/Quantum-Software-Development/Q-Star/blob/f5115a1a073bdb3fa68c51bb3b3414c8e0b0270e/LICENSE)
+
+
+
+
 
 
 
