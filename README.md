@@ -83,6 +83,8 @@ To calculate the limit, we can simplify the expression by factoring the numerato
 
 $$\frac{(x - 1)(x - 1)}{x - 1}$$
 
+After canceling out the common term ( x - 1 ), we are left with:
+
 
 
 
