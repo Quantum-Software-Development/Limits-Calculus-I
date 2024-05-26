@@ -82,14 +82,13 @@ $$= \lim_{{x \to 0}} \frac{x}{(2x - 1)} =\frac{0}{-1} = 0$$
 
 To calculate the limit, we can simplify the expression by factoring the numerator, which results in:
 
-
 $$(x-1)(x-3)$$
-
-
 
 By canceling out the ( x-1 ) term with the denominator, we get:
 
 $$f(x) = \lim_{x \to 1} (x-3)$$
+
+Therefore, the limit of the function as ( x ) approaches 1 is -2.
 
 
 
