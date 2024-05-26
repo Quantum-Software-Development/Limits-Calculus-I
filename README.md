@@ -60,8 +60,6 @@ $$= \lim_{{x \to 0}} \frac{x}{(2x - 1)} =\frac{0}{-1} = 0$$
 
 #### 1d) $$f(x) = \lim_{x \to 1} \frac{x^2 - 4x + 3}{x - 1}$$
 
-
-
 To calculate the limit, we can simplify the expression by factoring the numerator, which results in:
 
 $$(x-1)(x-3)$$
@@ -75,27 +73,6 @@ Therefore, the limit of the function as ( x ) approaches 1 is -2.
 $$f(1) = -2$$
 
 ### Result: The limit of the expression is -2.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 #
 
