@@ -89,6 +89,9 @@ $$\lim_{{x \to 1}} (x - 1)$$
 
 Since there are no more terms that depend on ( x ), this simplifies to:
 
+\lim_{{x \to 1}} = x - 1 = 0
+
+
 
 
 
