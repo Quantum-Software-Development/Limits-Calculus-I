@@ -1,13 +1,19 @@
 
-# Data Manipulation Libraries:
 
+
+# Framework Web Application:
+Django==3.2.7
+Open source, written in Python1234. It provides a set of components that help to develop websites 
+more quickly and easily3
+
+# Data Manipulation Libraries:
 numpy==1.22.0
 pandas==1.3.3
 Are used for numerical computations and data manipulation respectively
 
 
 # Data Visualization Libraries
-matplotlib==3.4.3
+atplotlib==3.4.3
 seaborn==0.11.2
 Are used for creating static, animated, and interactive visualizations in Python.
 
