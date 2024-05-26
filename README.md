@@ -87,7 +87,7 @@ $$(x-1)(x-3)$$
 
 
 
-After simplification:
+By canceling out the ( x-1 ) term with the denominator, we get:
 
 $$f(x) = \lim_{x \to 1} (x-3)$$
 
