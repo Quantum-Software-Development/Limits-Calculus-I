@@ -101,6 +101,8 @@ To solve this limit, we need to factor the denominator and simplify the expressi
 
 $$\lim_{{x \to 2}} \frac{1}{{x + 2}}$$
 
+Substituting ( x = 2 ) into the simplified expression, we find the limit to be:
+
 
 
 
