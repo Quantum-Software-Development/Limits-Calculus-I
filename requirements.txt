@@ -24,9 +24,11 @@ keras==2.6
 Are used for neural networks and deep learning.
 
 
-# Bibliotecas para processamento de linguagem natural
+# Natural Language Processing Libraries
 nltk==3.6.6
 spacy==3.1.3
+Are used for natural language processing tasks
+
 
 # Bibliotecas para web scraping
 beautifulsoup4==4.10.0
