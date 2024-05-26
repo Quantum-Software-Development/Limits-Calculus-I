@@ -28,6 +28,8 @@ $$\\begin{align*}
 \end{align*}
 \$$
 
+### Result: The limit of the expression is 6.
+
 #
 
 #### 1b) $$\(\lim_{x \to -7}\frac{49-x^{2}}{7+x}\)$$
