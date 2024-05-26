@@ -103,6 +103,13 @@ $$\lim_{{x \to 2}} \frac{1}{{x + 2}}$$
 
 Substituting ( x = 2 ) into the simplified expression, the final value:
 
+$$\frac{1}{4}$$
+
+
+
+
+
+
 
 
 
