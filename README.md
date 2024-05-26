@@ -85,6 +85,9 @@ $$\frac{(x - 1)(x - 1)}{x - 1}$$
 
 After canceling out the common term ( x - 1 ), we are left with:
 
+$$\lim_{{x \to 1}} (x - 1)$$
+
+
 
 
 
