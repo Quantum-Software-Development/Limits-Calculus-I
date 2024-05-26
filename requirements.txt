@@ -18,9 +18,11 @@ scikit-learn==1.0.1
 Are used for scientific computations and machine learning respectively.
 
 
-# Bibliotecas para machine learning
+# Machine Learning Libraries:
 tensorflow==2.11.1
 keras==2.6
+Are used for neural networks and deep learning.
+
 
 # Bibliotecas para processamento de linguagem natural
 nltk==3.6.6
