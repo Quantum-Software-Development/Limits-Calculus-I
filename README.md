@@ -59,7 +59,7 @@ $$= \lim_{{x \to 0}} \frac{x^3}{x(2x - 1)}$$
 
 We cancel out an ( x^2 ) term from the numerator and denominator:
 
-$$[ = \lim_{{x \to 0}} \frac{x}{(2x - 1)} =\frac{0}{-1} = 0]##
+$$= \lim_{{x \to 0}} \frac{x}{(2x - 1)} =\frac{0}{-1} = 0$$
 
 
 
