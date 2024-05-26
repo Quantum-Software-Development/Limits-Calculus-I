@@ -80,6 +80,8 @@ $$f(1) = -2$$
 
 To calculate the limit, we can simplify the expression by factoring the numerator, which is a perfect square trinomial. Factoring (x^2 - 2x + 1), we get ((x - 1)(x - 1)). The denominator is already in factored form as (x - 1). Thus, the function simplifies to:
 
+\frac{(x - 1)(x - 1)}{x - 1}
+
 
 
 
