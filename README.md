@@ -105,6 +105,8 @@ Substituting ( x = 2 ) into the simplified expression, the final value:
 
 $$\frac{1}{4}$$
 
+### Result: The limit of the function as ( x ) approaches 1 is simply $$\frac{1}{4}$$.
+
 
 
 
