@@ -39,12 +39,14 @@ sqlalchemy==1.4.23
 psycopg2-binary==2.9.1
 Are used for SQL-based database operations.
 
-# Bibliotecas para Jupyter Notebook
+# Jupyter Notebook Libraries:
 jupyter==1.0.0
 notebook==6.4.12
 ipywidgets==7.6.5
+Are used for creating and managing Jupyter notebooks.
 
-# Outras bibliotecas úteis
+# Other Useful Librarie
 joblib==1.2.0 
+Is a set of tools to provide lightweight pipelining in Python.
 
 
