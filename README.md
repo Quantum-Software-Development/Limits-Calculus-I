@@ -33,7 +33,11 @@ $$\[
 
 #### 1b) $$\(\lim_{x \to -7}\frac{49-x^{2}}{7+x}\)$$
 
+<br>
+
 Again, we can use factorization:
+
+<br>
 
 $$\[
 \begin{align*}
@@ -44,6 +48,7 @@ $$\[
 \end{align*}
 \]$$
 
+#
 
 
 
