@@ -46,23 +46,13 @@ $$\\begin{align*}
 
 #### 1c) $$\lim_{{x \to 0}} \frac{x^3}{2x^2 - x}$$
 
-<br>
-
 We factor out ( x ) from the denominator:
-
-<br>
 
 $$= \lim_{{x \to 0}} \frac{x^3}{x(2x - 1)}$$
 
-<br>
-
 We cancel out an ( x^2 ) term from the numerator and denominator:
 
-<br>
-
 $$= \lim_{{x \to 0}} \frac{x}{(2x - 1)} =\frac{0}{-1} = 0$$
-
-<br>
 
 ### Result: The limit of the expression is 0.
 
