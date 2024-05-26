@@ -91,6 +91,7 @@ Since there are no more terms that depend on ( x ), this simplifies to:
 
 $$\lim_{{x \to 1}} = x - 1 = 0$$
 
+### Result: The limit of the function as ( x ) approaches 1 is simply 0.
 
 
 
