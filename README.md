@@ -46,6 +46,8 @@ $$\\begin{align*}
 \end{align*}
 \$$
 
+### Result: The limit of the expression is -14.
+
 #
 
 #### 1c) $$\lim_{{x \to 0}} \frac{x^3}{2x^2 - x}$$
