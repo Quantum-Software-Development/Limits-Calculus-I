@@ -61,6 +61,8 @@ We cancel out an ( x^2 ) term from the numerator and denominator:
 
 $$= \lim_{{x \to 0}} \frac{x}{(2x - 1)} =\frac{0}{-1} = 0$$
 
+### Result: The limit of the expression is 0.
+
 
 
 
