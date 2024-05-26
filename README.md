@@ -54,7 +54,8 @@ $$\[
 
 We factor out ( x ) from the denominator:
 
-$$=x→0lim​x(2x−1)x3​$
+$$\lim_{{x \to 0}} \frac{x^3}{x(2x - 1)}$$
+
 
 We cancel out an ( x^2 ) term from the numerator and denominator:
 
