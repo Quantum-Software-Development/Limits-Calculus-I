@@ -78,6 +78,13 @@ $$= \lim_{{x \to 0}} \frac{x}{(2x - 1)} =\frac{0}{-1} = 0$$
 
 #### 1d) $$f(x) = \lim_{x \to 1} \frac{x^2 - 4x + 3}{x - 1}$$
 
+After simop
+
+$$f(x) = \lim_{x \to 1} (x-3)$$
+
+
+
+
 
 
 
