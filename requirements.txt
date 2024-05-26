@@ -29,14 +29,15 @@ nltk==3.6.6
 spacy==3.1.3
 Are used for natural language processing tasks
 
-
-# Bibliotecas para web scraping
+# Web Scraping Libraries:
 beautifulsoup4==4.10.0
 requests==2.32.0
+Are used for web scraping.
 
-# Bibliotecas para trabalhar com bancos de dados
+# Database Libraries:
 sqlalchemy==1.4.23
 psycopg2-binary==2.9.1
+Are used for SQL-based database operations.
 
 # Bibliotecas para Jupyter Notebook
 jupyter==1.0.0
