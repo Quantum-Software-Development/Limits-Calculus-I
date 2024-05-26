@@ -92,6 +92,8 @@ Therefore, the limit of the function as ( x ) approaches 1 is -2.
 
 $$f(1) = -2$$
 
+### Result: The limit of the expression is -2.
+
 
 
 
