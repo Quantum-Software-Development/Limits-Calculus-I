@@ -78,6 +78,9 @@ $$= \lim_{{x \to 0}} \frac{x}{(2x - 1)} =\frac{0}{-1} = 0$$
 
 #### 1d) $$\lim_{{x \to 0}} \frac{x^3}{2x^2 - x}$$
 
+\lim_{{x \to 0}} \frac{x^3}{2x^2 - x}
+
+
 
 
 
