@@ -97,6 +97,8 @@ $$\lim_{{x \to 1}} = x - 1 = 0$$
 
 #### 1f)  $$\lim_{{x \to 2}} \frac{{x - 2}}{{x^2 - 4}}$$
 
+To solve this limit, we need to factor the denominator and simplify the expression. The denominator ( x^2 - 4 ) can be factored into ( (x + 2)(x - 2) ), which allows us to cancel out the ( x - 2 ) term in the numerator:
+
 
 
 
