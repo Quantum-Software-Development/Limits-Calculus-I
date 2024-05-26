@@ -52,12 +52,17 @@ $$\[
 
 #### 1c) $$\lim_{{x \to 0}} \frac{x^3}{2x^2 - x}$$
 
+
 We factor out ( x ) from the denominator:
+
 
 $$\lim_{{x \to 0}} \frac{x^3}{x(2x - 1)}$$
 
 
 We cancel out an ( x^2 ) term from the numerator and denominator:
+
+
+$$\lim_{{x \to 0}} \frac{x}{(2x - 1)}$$
 
 
 
