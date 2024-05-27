@@ -1,6 +1,7 @@
 
 # Framework Web Application:
-Django==3.2.7
+Django==5.0.6
+
 
 # Data Manipulation Libraries:
 numpy==1.22.0
