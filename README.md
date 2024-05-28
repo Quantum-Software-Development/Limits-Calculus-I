@@ -142,6 +142,10 @@ Result: The limit of the function as ( x ) approaches 1 is simply $$\frac{1}{4}$
 
 ### 1h) $$\(\lim_{{x \to \infty}} \frac{{x^2}}{{2x^2 - x}}\)$$
 
+In this case, we can use L'Hôpital's rule, as the limit is of the form \(\frac{0}{0}\) or \(\frac{\infty}{\infty}\) when \(x\) tends to infinity.
+
+
+
 
 
 
