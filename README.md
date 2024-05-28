@@ -113,6 +113,10 @@ $$\frac{1}{4}$$
 
 This limit can be solved using factorization and polynomial division:
 
+\[
+\begin{align*}
+
+
 
 
 
