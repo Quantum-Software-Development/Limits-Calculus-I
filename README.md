@@ -162,7 +162,8 @@ $$\
 
  Result: The limit of the expression is $$\frac{1}{2}$$.
 
- #
+
+ <br><br><br>
 
 
 ## 2.Calculate the Following Limits
