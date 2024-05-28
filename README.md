@@ -129,9 +129,9 @@ $$\
 \end{align*}
 \$$
 
+### Result: The limit of the function as ( x ) approaches 1 is simply $$\frac{1}{4}$$
 
-
-
+#
 
 
 
