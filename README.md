@@ -8,13 +8,15 @@
 
 #### <p align="center"> AI Data Science - PUCSP University Repository
 
-<br>
+<br>><br>
 
 ## 1. Find the limits:
 
 #### 1a) $$\(\lim_{x \to 3}\frac{x^{2}-9}{x-3}\)$$
 
  <p align="center">  To solve this limit, we can use factorization:
+
+ ><br>
 
 $$\\begin{align*}
 \lim_{x \to 3}\frac{x^{2}-9}{x-3} &= \lim_{x \to 3}\frac{(x+3)(x-3)}{x-3} \\
@@ -24,7 +26,9 @@ $$\\begin{align*}
 \end{align*}
 \$$
 
-### Result: The limit of the expression is 6.
+><br>
+
+ Result: The limit of the expression is 6.
 
 #
 
