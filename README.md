@@ -140,7 +140,7 @@ Result: The limit of the function as ( x ) approaches 1 is simply $$\frac{1}{4}$
 
 #
 
-### 1h) \(\lim_{{x \to \infty}} \frac{{x^2}}{{2x^2 - x}}\)
+### 1h) $$\(\lim_{{x \to \infty}} \frac{{x^2}}{{2x^2 - x}}\)$$
 
 
 
