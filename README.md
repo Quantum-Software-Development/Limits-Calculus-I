@@ -95,7 +95,7 @@ Since there are no more terms that depend on ( x ), this simplifies to:
 
 $$\lim_{{x \to 1}} = x - 1 = 0$$
 
-### Result: The limit of the function as ( x ) approaches 1 is simply 0.
+ Result: The limit of the function as ( x ) approaches 1 is simply 0.
 
 #
 
@@ -117,7 +117,7 @@ $$\frac{1}{4}$$
 
 <br>
 
-This limit can be solved using factorization and polynomial division: <br><br>
+ <p align="center">This limit can be solved using factorization and polynomial division: <br><br>
 
 $$\
 \begin{align*}
