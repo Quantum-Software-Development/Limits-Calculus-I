@@ -148,6 +148,9 @@ In this case, we can use L'Hôpital's rule, as the limit is of the form \(\frac{
 \begin{align*}
 \lim_{{x \to \infty}} \frac{{x^2}}{{2x^2 - x}} &= \lim_{{x \to \infty}} \frac{{\frac{d}{dx}[x^2]}}{{\frac{d}{dx}[2x^2 - x]}} \\
 &= \lim_{{x \to \infty}} \frac{{2x}}{{4x - 1}} \\
+&= \lim_{{x \to \infty}} \frac{{2}}{{4 - \frac{1}{x}}} \\
+
+
 
 
 
