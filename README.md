@@ -144,6 +144,8 @@ Result: The limit of the function as ( x ) approaches 1 is simply $$\frac{1}{4}$
 
 In this case, we can use L'Hôpital's rule, as the limit is of the form \(\frac{0}{0}\) or \(\frac{\infty}{\infty}\) when \(x\) tends to infinity.
 
+\[
+\begin{align*}
 
 
 
