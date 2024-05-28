@@ -115,7 +115,6 @@ This limit can be solved using factorization and polynomial division:
 
 \[
 \begin{align*}
-
 \lim_{{x \to 3}} \frac{{x^3 - 27}}{{x^2 - 5x + 6}} &= \lim_{{x \to 3}} \frac{{(x - 3)(x^2 + 3x + 9)}}{{(x - 2)(x - 3)}} \\
 
 
