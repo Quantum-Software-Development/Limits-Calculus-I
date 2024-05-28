@@ -14,7 +14,7 @@
 
 #### 1a) $$\(\lim_{x \to 3}\frac{x^{2}-9}{x-3}\)$$
 
-To solve this limit, we can use factorization:
+ <p align="center">  To solve this limit, we can use factorization:
 
 $$\\begin{align*}
 \lim_{x \to 3}\frac{x^{2}-9}{x-3} &= \lim_{x \to 3}\frac{(x+3)(x-3)}{x-3} \\
