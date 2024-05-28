@@ -154,6 +154,9 @@ In this case, we can use L'Hôpital's rule, as the limit is of the form \(\frac{
 &= \lim_{{x \to \infty}} \frac{{2x}}{{4x - 1}} \\
 &= \lim_{{x \to \infty}} \frac{{2}}{{4 - \frac{1}{x}}} \\
 &= \frac{2}{4} \\
+&= \frac{1}{2}
+\end{align*}
+\]
 
 
 
