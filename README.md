@@ -16,7 +16,7 @@
 
  <p align="center">  To solve this limit, we can use factorization:
 
- ><br>
+ <br>
 
 $$\\begin{align*}
 \lim_{x \to 3}\frac{x^{2}-9}{x-3} &= \lim_{x \to 3}\frac{(x+3)(x-3)}{x-3} \\
@@ -26,7 +26,7 @@ $$\\begin{align*}
 \end{align*}
 \$$
 
-><br>
+<br>
 
  Result: The limit of the expression is 6.
 
