@@ -111,6 +111,8 @@ $$\frac{1}{4}$$
 
 #### 1g)   $$\(\lim_{{x \to 3}} \frac{{x^3 - 27}}{{x^2 - 5x + 6}}\)##
 
+This limit can be solved using factorization and polynomial division:
+
 
 
 
