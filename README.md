@@ -148,7 +148,7 @@ Result: The limit of the function as ( x ) approaches 1 is simply $$\frac{1}{4}$
 
 In this case, we can use L'Hôpital's rule, as the limit is of the form \(\frac{0}{0}\) or \(\frac{\infty}{\infty}\) when \(x\) tends to infinity.
 
-\[
+$$\
 \begin{align*}
 \lim_{{x \to \infty}} \frac{{x^2}}{{2x^2 - x}} &= \lim_{{x \to \infty}} \frac{{\frac{d}{dx}[x^2]}}{{\frac{d}{dx}[2x^2 - x]}} \\
 &= \lim_{{x \to \infty}} \frac{{2x}}{{4x - 1}} \\
@@ -156,7 +156,7 @@ In this case, we can use L'Hôpital's rule, as the limit is of the form \(\frac{
 &= \frac{2}{4} \\
 &= \frac{1}{2}
 \end{align*}
-\]
+\$$
 
 
 
