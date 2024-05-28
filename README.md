@@ -117,7 +117,7 @@ $$\frac{1}{4}$$
 
 <br>
 
-This limit can be solved using factorization and polynomial division: <br>
+This limit can be solved using factorization and polynomial division: <br><br>
 
 $$\
 \begin{align*}
