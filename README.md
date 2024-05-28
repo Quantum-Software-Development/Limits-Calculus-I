@@ -109,9 +109,13 @@ Substituting ( x = 2 ) into the simplified expression, the final value:
 
 $$\frac{1}{4}$$
 
+<br>
+
 ### Result: The limit of the function as ( x ) approaches 1 is simply $$\frac{1}{4}$$
 
+
 #
+
 
 #### 1g)   $$\(\lim_{{x \to 3}} \frac{{x^3 - 27}}{{x^2 - 5x + 6}}\)$$
 
@@ -129,7 +133,9 @@ $$\
 \end{align*}
 \$$
 
-### Result: The limit of the function as ( x ) approaches 1 is simply $$\frac{1}{4}$$
+<br>
+
+Result: The limit of the function as ( x ) approaches 1 is simply $$\frac{1}{4}$$
 
 #
 
