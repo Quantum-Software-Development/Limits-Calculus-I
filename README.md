@@ -44,7 +44,7 @@ $$\\begin{align*}
 \end{align*}
 \$$
 
-### Result: The limit of the expression is -14.
+Result: The limit of the expression is -14.
 
 #
 
@@ -58,7 +58,7 @@ We cancel out an ( x^2 ) term from the numerator and denominator:
 
 $$= \lim_{{x \to 0}} \frac{x}{(2x - 1)} =\frac{0}{-1} = 0$$
 
-### Result: The limit of the expression is 0.
+Result: The limit of the expression is 0.
 
 #
 
@@ -76,7 +76,7 @@ Therefore, the limit of the function as ( x ) approaches 1 is -2.
 
 $$f(1) = -2$$
 
-### Result: The limit of the expression is -2.
+Result: The limit of the expression is -2.
 
 #
 
@@ -95,7 +95,7 @@ Since there are no more terms that depend on ( x ), this simplifies to:
 
 $$\lim_{{x \to 1}} = x - 1 = 0$$
 
- Result: The limit of the function as ( x ) approaches 1 is simply 0.
+Result: The limit of the function as ( x ) approaches 1 is simply 0.
 
 #
 
@@ -111,7 +111,7 @@ $$\frac{1}{4}$$
 
 <br>
 
-### Result: The limit of the function as ( x ) approaches 1 is simply $$\frac{1}{4}$$
+Result: The limit of the function as ( x ) approaches 1 is simply $$\frac{1}{4}$$
 
 
 #
