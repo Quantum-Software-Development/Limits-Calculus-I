@@ -6,7 +6,7 @@
 
 ## <p align="center"> ✍️  Resolution of Mathematics Exercises - Calculus - Limits and Derivatives
 
-#### <p align="center"> AI Data Science - PUCSP University Repository
+#### <p align="center"> [AI Data Science - PUCSP University Repository]()
 
 <br>><br>
 
