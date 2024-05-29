@@ -170,7 +170,7 @@ $$\
 
 #### 2a: Finding the limit of a polynomial function as x approaches infinity
 
-f(x)=axn+bxn−1+cxn−2+...+dx+e. 
+$$f(x)=axn+bxn−1+cxn−2+...+dx+e$$
 
 
 
