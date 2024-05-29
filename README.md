@@ -176,7 +176,7 @@ The given function is a polynomial function of the form:
 
 $$f(x)=axn+bxn−1+cxn−2+...+dx+e$$
 
- function of the form f(x)=axn+bxn−1+cxn−2+...+dx+e. As x approaches infinity, the highest power of x in the function dominates the value of the function. This means that we can ignore all the lower-order terms, and simply consider the behavior of the highest-order term.
+ The function of the form f(x)=axn+bxn−1+cxn−2+...+dx+e. As x approaches infinity, the highest power of x in the function dominates the value of the function. This means that we can ignore all the lower-order terms, and simply consider the behavior of the highest-order term.
 
 
 
