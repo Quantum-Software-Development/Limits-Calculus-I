@@ -168,6 +168,14 @@ $$\
 
 ## 2.Calculate the Following Limits
 
+### 2a: Finding the limit of a polynomial function as x approaches infinity
+
+
+
+
+
+
+
 
 
 
