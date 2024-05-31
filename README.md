@@ -1,4 +1,5 @@
 
+
  <p align="center">
 <img src="https://github.com/Quantum-Software-Development/Math/assets/113218619/58c8c407-2971-4a65-9030-e25d76617687"/>
 
@@ -175,6 +176,8 @@ $$f(x)=axn+bxn−1+cxn−2+...+dx+e$$
 
 As x approaches infinity, the highest power of x in the function dominates the value of the function. This means that we can ignore all the lower-order terms, and simply consider the behavior of the highest-order term.
 
+
+In this case, the highest-order term is 2x4. As x approaches infinity, x4 also approaches infinity,
  
 
 
