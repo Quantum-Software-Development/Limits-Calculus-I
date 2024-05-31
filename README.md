@@ -188,7 +188,7 @@ Therefore, the limit of the function as x approaches infinity is infinity. We ca
 
 <br>
 
-### $$x→∞lim (2x4−3x3+x+6)=∞##
+ $$x→∞lim (2x4−3x3+x+6)=∞##
 
  
 
