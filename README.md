@@ -173,8 +173,7 @@ The given function is a polynomial function of the form:
 
 $$f(x)=axn+bxn−1+cxn−2+...+dx+e$$
 
-As x approaches infinity, the highest power of x 
-
+As x approaches infinity, the highest power of x in the function dominates the value of the function. T
  
 
 
