@@ -178,6 +178,12 @@ As x approaches infinity, the highest power of x in the function dominates the v
 
 
 In this case, the highest-order term is 2x4. As x approaches infinity, x4 also approaches infinity,
+
+
+Therefore, the limit of the function as x approaches infinity is infinity. We can write this mathematically as:
+
+### $$x→∞lim (2x4−3x3+x+6)=∞##
+
  
 
 
