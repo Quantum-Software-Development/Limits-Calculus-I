@@ -177,11 +177,11 @@ $$f(x)=axn+bxn−1+cxn−2+...+dx+e$$
 As x approaches infinity, the highest power of x in the function dominates the value of the function. This means that we can ignore all the lower-order terms, and simply consider the behavior of the highest-order term.
 
 
-In this case, the highest-order term is 2x4. As x approaches infinity, x4 also approaches infinity,
+In this case, the highest-order term is **2x4. As x approaches infinity, x4 also approaches infinity,
 
 
 Therefore, the limit of the function as x approaches infinity is infinity. We can write this mathematically as:
-
+**
 ### $$x→∞lim (2x4−3x3+x+6)=∞##
 
  
