@@ -164,14 +164,10 @@ $$\
 
 #
 
- <br><br><br>
-
-
+ <br><br>
 ## 2.Calculate the Following Limits
 
 #### 2a: Finding the limit of a polynomial function as x approaches infinity
-
-<br><br>
 
 The given function is a polynomial function of the form: 
 
