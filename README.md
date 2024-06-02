@@ -242,7 +242,9 @@ In this case, the highest-order term is **2x4. As x approaches infinity, x4 also
 
 <br>
 
-The given function is a rational function of the form $$f(x)=cxm+fxm−1+...+gx+haxn+bxn−1+...+dx+e$$
+The given function is a rational function of the form 
+
+$$f(x)=cxm+fxm−1+...+gx+haxn+bxn−1+...+dx+e$$
 
 , where n > m. As x approaches infinity, the highest power of x in the numerator dominates the value of the numerator, and the highest power of x in the denominator dominates the value of the denominator.  This means that we can ignore all the lower-order terms, and simply consider the behavior of the highest-order terms.
 
