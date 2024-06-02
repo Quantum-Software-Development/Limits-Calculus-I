@@ -190,7 +190,7 @@ Therefore, the limit of the function as x approaches infinity is infinity. We ca
 
  $$x→∞lim (2x4−3x3+x+6)=∞$$
 
- #
+<br><br>
 
 ## 2Limits Solutions:
 
@@ -198,7 +198,11 @@ Therefore, the limit of the function as x approaches infinity is infinity. We ca
 
 $$\lim_{x \to \infty} \frac{1}{x^2}$$
 
+<br>
+
 #### As x approaches infinity, the denominator ($x^2$) grows infinitely large, while the numerator remains constant at 1. This means the fraction becomes increasingly small, approaching zero.
+
+<br>
 
 
 
