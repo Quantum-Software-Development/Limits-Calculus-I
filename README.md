@@ -241,7 +241,11 @@ $$x→∞lim x32x4−3x3+x+6 =0$$
 
 The given function is a rational function of the form 
 
+<br>
+
 $$f(x)=cxm+fxm−1+...+gx+haxn+bxn−1+...+dx+e$$
+
+<br>
 
 , where n > m. As x approaches infinity, the highest power of x in the numerator dominates the value of the numerator, and the highest power of x in the denominator dominates the value of the denominator.  This means that we can ignore all the lower-order terms, and simply consider the behavior of the highest-order terms.
 
