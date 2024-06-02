@@ -202,6 +202,9 @@ The given function is a rational function of the form $$f(x)=cxm+fxm−1+...+gx+
 
 In this case, the highest-order term in the numerator is 2x4, and the highest-order term in the denominator is x3. 
 
+As x approaches infinity, 2x4 grows much faster than x3, and so the function f(x) approaches zero.
+
+
 
  
 
