@@ -213,6 +213,26 @@ $$\lim_{x \to \infty} \frac{1}{x^2} = 0$$
 
  #
 
+ ## 3.Calculate the Following Limits
+
+### 3a: Finding the limit of a polynomial function as x approaches infinity
+
+The given function is a polynomial function of the form: 
+
+<br>
+
+$$f(x)=axn+bxn−1+cxn−2+...+dx+e$$
+
+<br>
+
+As x approaches infinity, the highest power of x in the function dominates the value of the function. This means that we can ignore all the lower-order terms, and simply consider the behavior of the highest-order term.
+
+In this case, the highest-order term is **2x4. As x approaches infinity, x4 also approaches infinity,
+
+<br>
+
+#
+
 ### 3b:Finding the limit of a rational function as x approaches infinity
 
 <br>
