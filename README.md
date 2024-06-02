@@ -194,6 +194,11 @@ Therefore, the limit of the function as x approaches infinity is infinity. We ca
 
 ### 2b:Finding the limit of a rational function as x approaches infinity
 
+<br>
+
+The given function is a rational function of the form f(x)=cxm+fxm−1+...+gx+haxn+bxn−1+...+dx+e , w
+
+
 
 
  
