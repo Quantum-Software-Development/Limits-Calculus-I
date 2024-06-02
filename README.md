@@ -122,7 +122,7 @@ Result: The limit of the function as ( x ) approaches 1 is simply $$\frac{1}{4}$
 #
 
 
-#### 1g)   $$\(\lim_{{x \to 3}} \frac{{x^3 - 27}}{{x^2 - 5x + 6}}\)$$
+### 1g)   $$\(\lim_{{x \to 3}} \frac{{x^3 - 27}}{{x^2 - 5x + 6}}\)$$
 
 <br>
 
@@ -168,7 +168,7 @@ $$\
  <br><br>
 ## 2.Calculate the Following Limits
 
-#### 2a: Finding the limit of a polynomial function as x approaches infinity
+### 2a: Finding the limit of a polynomial function as x approaches infinity
 
 The given function is a polynomial function of the form: 
 
