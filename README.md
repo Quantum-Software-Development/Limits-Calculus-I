@@ -192,14 +192,9 @@ Therefore, the limit of the function as x approaches infinity is infinity. We ca
 
  #
 
+## 2Limits Solutions:
 
-
-
-
-
-
-
-
+### 2a) 
 
 
 
