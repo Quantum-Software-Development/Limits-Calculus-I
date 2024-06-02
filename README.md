@@ -13,7 +13,7 @@
 
 ## 1. Find the limits:
 
-#### 1a) $$\(\lim_{x \to 3}\frac{x^{2}-9}{x-3}\)$$
+### 1a) $$\(\lim_{x \to 3}\frac{x^{2}-9}{x-3}\)$$
 
  <p align="center">  To solve this limit, we can use factorization:
 
@@ -33,7 +33,7 @@ $$\\begin{align*}
 
 #
 
-#### 1b) $$\(\lim_{x \to -7}\frac{49-x^{2}}{7+x}\)$$
+### 1b) $$\(\lim_{x \to -7}\frac{49-x^{2}}{7+x}\)$$
 
 Again, we can use factorization:
 
@@ -49,7 +49,7 @@ Result: The limit of the expression is -14.
 
 #
 
-#### 1c) $$\lim_{{x \to 0}} \frac{x^3}{2x^2 - x}$$
+### 1c) $$\lim_{{x \to 0}} \frac{x^3}{2x^2 - x}$$
 
 We factor out ( x ) from the denominator:
 
@@ -63,7 +63,7 @@ Result: The limit of the expression is 0.
 
 #
 
-#### 1d) $$f(x) = \lim_{x \to 1} \frac{x^2 - 4x + 3}{x - 1}$$
+### 1d) $$f(x) = \lim_{x \to 1} \frac{x^2 - 4x + 3}{x - 1}$$
 
 To calculate the limit, we can simplify the expression by factoring the numerator, which results in:
 
@@ -85,7 +85,7 @@ Result: The limit of the expression is -2.
 
 #
 
-#### 1e)  $$\lim_{{x \to 1}} \frac{{x^2 - 2x + 1}}{{x - 1}}$$
+### 1e)  $$\lim_{{x \to 1}} \frac{{x^2 - 2x + 1}}{{x - 1}}$$
 
 
 To calculate the limit, we can simplify the expression by factoring the numerator, which is a perfect square trinomial. Factoring (x^2 - 2x + 1), we get ((x - 1)(x - 1)). The denominator is already in factored form as (x - 1). Thus, the function simplifies to:
@@ -104,7 +104,7 @@ Result: The limit of the function as ( x ) approaches 1 is simply 0.
 
 #
 
-#### 1f)  $$\lim_{{x \to 2}} \frac{{x - 2}}{{x^2 - 4}}$$
+### 1f)  $$\lim_{{x \to 2}} \frac{{x - 2}}{{x^2 - 4}}$$
 
 To solve this limit, we need to factor the denominator and simplify the expression. The denominator ( x^2 - 4 ) can be factored into ( (x + 2)(x - 2) ), which allows us to cancel out the ( x - 2 ) term in the numerator:
 
