@@ -198,6 +198,10 @@ Therefore, the limit of the function as x approaches infinity is infinity. We ca
 
 $$\lim_{x \to \infty} \frac{1}{x^2}$$
 
+#### As x approaches infinity, the denominator ($x^2$) grows infinitely large, while the numerator remains constant at 1. 
+
+
+
 
 
 
