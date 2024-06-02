@@ -192,6 +192,28 @@ Therefore, the limit of the function as x approaches infinity is infinity. We ca
 
  #
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ #
+
 ### 3b:Finding the limit of a rational function as x approaches infinity
 
 <br>
