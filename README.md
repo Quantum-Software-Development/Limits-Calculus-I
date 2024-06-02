@@ -228,6 +228,8 @@ In this case, the highest-order term is 2x4. As x approaches infinity, x4 also a
 Therefore, the limit of the function as x approaches infinity is infinity. We can write this mathematically as:
 
 
+$$x→∞lim x32x4−3x3+x+6 =0$$
+
 
 
 
