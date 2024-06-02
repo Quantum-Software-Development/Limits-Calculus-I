@@ -197,9 +197,7 @@ $$\lim_{x \to \infty} \frac{1}{x^2} = 0$$
 
 $$\lim_{x \to -\infty} \frac{1}{x^2}$$
 
-Similar to the previous case, as x approaches negative infinity, the denominator ($x^2$) grows infinitely large (but remains positive),
-
-
+Similar to the previous case, as x approaches negative infinity, the denominator ($x^2$) grows infinitely large (but remains positive), and the numerator remains constant at 1. 
 
 
 
