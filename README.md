@@ -196,8 +196,7 @@ Therefore, the limit of the function as x approaches infinity is infinity. We ca
 
 <br>
 
-The given function is a rational function of the form f(x)=cxm+fxm−1+...+gx+haxn+bxn−1+...+dx+e , w
-
+The given function is a rational function of the form f(x)=cxm+fxm−1+...+gx+haxn+bxn−1+...+dx+e , where n > m. As x approaches infinity, the highest power of x in the numerator dominates the value of the numerator
 
 
 
