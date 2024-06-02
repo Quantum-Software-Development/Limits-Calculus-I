@@ -166,10 +166,9 @@ $$\
 #
 
  <br><br>
----
 
-Therefore, the limit of the function as x approaches infinity is infinity. We can write this mathematically as:
-----
+
+
 <br>
 
  $$x→∞lim (2x4−3x3+x+6)=∞$$
@@ -222,6 +221,12 @@ The given function is a polynomial function of the form:
 <br>
 
 $$f(x)=axn+bxn−1+cxn−2+...+dx+e$$
+
+Therefore, the limit of the function as x approaches infinity is infinity. We can write this mathematically as:
+
+
+
+
 
 <br>
 
