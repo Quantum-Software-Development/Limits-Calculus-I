@@ -201,6 +201,14 @@ Similar to the previous case, as x approaches negative infinity, the denominator
 
 
 
+The fraction becomes increasingly small, approaching zero.
+
+
+
+
+
+
+
 
 
 
