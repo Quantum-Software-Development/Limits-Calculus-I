@@ -204,7 +204,7 @@ $$\lim_{x \to \infty} \frac{1}{x^2}$$
 
 <br>
 
-
+Solution: $\lim_{x \to \infty} \frac{1}{x^2} = 0$
 
 
 
