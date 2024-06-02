@@ -166,9 +166,9 @@ $$\
 #
 
  <br><br>
-## 2.Calculate the Following Limits
+## 3.Calculate the Following Limits
 
-### 2a: Finding the limit of a polynomial function as x approaches infinity
+### 3a: Finding the limit of a polynomial function as x approaches infinity
 
 The given function is a polynomial function of the form: 
 
@@ -192,7 +192,7 @@ Therefore, the limit of the function as x approaches infinity is infinity. We ca
 
  #
 
-### 2b:Finding the limit of a rational function as x approaches infinity
+### 3b:Finding the limit of a rational function as x approaches infinity
 
 <br>
 
