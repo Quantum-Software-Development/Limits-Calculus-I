@@ -170,8 +170,7 @@ $$\
 
 ## 2 Limits Solutions:
 
-### 2a) 
-
+### Limit 2a):
 
 <br>
 
