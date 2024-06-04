@@ -175,11 +175,7 @@ $$\
 
 <br>
 
-Solution: 
 
-$$\lim_{x \to \infty} \frac{1}{x^2} = 0$$
-
-<br><br>
 
 ## 2b) 
 
