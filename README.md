@@ -172,7 +172,7 @@ $$\
 
 ### Limit 2a):  The limit as ( x ) approaches 3 for ( 2x^2 - 9 ) is:
 
-x→3lim​(2x2−9)=2(3)2−9=18−9=9
+x→3lim​(2x2−9) = 2(3)2 −9 =18 −9 = 9
 
 
 
