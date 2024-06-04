@@ -180,24 +180,6 @@ Limit 2b): The limit as ( x ) approaches negative infinity for ( \frac{4x}{3 + x
 
 
 
-
-
-
-
-## 2b) 
-
-]
-
-<<br>
-
-
-
-<BR>
-
-Solution: 
-
-$$\lim_{x \to -\infty} \frac{1}{x^2} = 0$$
-
 #
 
  
