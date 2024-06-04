@@ -183,7 +183,7 @@ $$\
 
 <<br>
 
-The fraction becomes increasingly small, approaching zero.
+
 
 <BR>
 
