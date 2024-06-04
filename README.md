@@ -164,17 +164,9 @@ $$\
  Result: The limit of the expression is $$\frac{1}{2}$$
 
 
-#
 
 
 
-
-
-<br>
-
- $$x→∞lim (2x4−3x3+x+6)=∞$$
-
-<br><br>
 
 ## 2 Limits Solutions:
 
