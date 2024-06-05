@@ -176,6 +176,8 @@ $$\lim_{x \to \infty} \frac{1}{x^2}$$
 
  $$\lim_{{x \to \infty}} \frac{1}{{x^2}} = 0$$ 
 
+As ( x ) increases without bound, the value of ( $\frac{1}{{x^2}}$ ) 
+
 
   
 
