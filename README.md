@@ -170,7 +170,7 @@ $$\
 
 #### 2a): 
 
-\lim_{x \to \infty} \frac{1}{x^2}
+$$\lim_{x \to \infty} \frac{1}{x^2}$$
 
 
   
