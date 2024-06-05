@@ -168,17 +168,27 @@ $$\
 ## 2. Solve the Limits:
 
 
+  
+## 1 Limits Solutions:
+
+### Limit 2a):  The limit as ( x ) approaches 3 for ( 2x^2 - 9 ) is:
+
+
 ### 2a): $\lim_{x \to \infty} \frac{1}{x^2}$
 
 <br>
 
+
  The limit as ( x ) approaches infinity for $$\frac{1}{{x^2}}$$ is: $\lim_{{x \to \infty}} \frac{1}{{x^2}} = 0$ 
 
+
  <br>
+
 
 As ( x ) increases without bound, the value of ( $\frac{1}{{x^2}}$ ), approaches 0 because the denominator grows much faster than the numerator.
 
 #
+
 
 ### 2b): $\lim_{x \to -\infty} \frac{1}{x^2}$
   
