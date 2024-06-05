@@ -168,9 +168,7 @@ $$\
 
 
   
-## 2 Limits Solutions:
 
-### Limit 2a):  The limit as ( x ) approaches 3 for ( 2x^2 - 9 ) is:
 
 
 
