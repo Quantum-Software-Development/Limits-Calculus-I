@@ -5,9 +5,9 @@
 
 <br><br>
 
-### <p align="center"> ✍️  Resolution of Mathematics Exercises - Calculus - Limits and Derivatives
+## <p align="center"> ✍️  Resolution of Mathematics Exercises - Calculus I - Limits and Derivatives
 
-#### <p align="center"> AI Data Science - PUCSP University Repository - [Professor Eric Bacconi Gonçalves](https://www.linkedin.com/in/eric-bacconi-423137/)
+##### <p align="center"> AI Data Science - PUCSP University Repository - [Professor Eric Bacconi Gonçalves](https://www.linkedin.com/in/eric-bacconi-423137/)
 
 <br><br>
 
@@ -15,7 +15,7 @@
 
 ### 1a) $$\(\lim_{x \to 3}\frac{x^{2}-9}{x-3}\)$$
 
- <p align="center">  To solve this limit, we can use factorization:
+ To solve this limit, we can use factorization:
 
  <br>
 
@@ -126,7 +126,7 @@ Result: The limit of the function as ( x ) approaches 1 is simply $$\frac{1}{4}$
 
 <br>
 
- <p align="center">This limit can be solved using factorization and polynomial division: <br><br>
+This limit can be solved using factorization and polynomial division: <br><br>
 
 $$\
 \begin{align*}
@@ -163,55 +163,42 @@ $$\
 
  Result: The limit of the expression is $$\frac{1}{2}$$
 
-#
-
- <br><br>
-
-
-
-<br>
-
- $$x→∞lim (2x4−3x3+x+6)=∞$$
-
 <br><br>
 
-## 2 Limits Solutions:
+## 2. Solve the Limits:
 
-### 2a) 
 
-$$\lim_{x \to \infty} \frac{1}{x^2}$$
+  
+## 1 Limits Solutions:
+
+### Limit 2a):  The limit as ( x ) approaches 3 for ( 2x^2 - 9 ) is:
+
+
+### 2a): $\lim_{x \to \infty} \frac{1}{x^2}$
 
 <br>
 
-#### As x approaches infinity, the denominator ($x^2$) grows infinitely large, while the numerator remains constant at 1. This means the fraction becomes increasingly small, approaching zero.
 
-<br>
+ The limit as ( x ) approaches infinity for $$\frac{1}{{x^2}}$$ is: $\lim_{{x \to \infty}} \frac{1}{{x^2}} = 0$ 
 
-Solution: 
 
-$$\lim_{x \to \infty} \frac{1}{x^2} = 0$$
+ <br>
 
-<br><br>
 
-## 2b) 
-
-$$\lim_{x \to -\infty} \frac{1}{x^2}$$
-
-Similar to the previous case, as x approaches negative infinity, the denominator ($x^2$) grows infinitely large (but remains positive), and the numerator remains constant at 1. 
-
-<BR>
-
-The fraction becomes increasingly small, approaching zero.
-
-<BR>
-
-Solution: 
-
-$$\lim_{x \to -\infty} \frac{1}{x^2} = 0$$
+As ( x ) increases without bound, the value of ( $\frac{1}{{x^2}}$ ), approaches 0 because the denominator grows much faster than the numerator.
 
 #
 
-3c) 
+
+### 2b): $\lim_{x \to -\infty} \frac{1}{x^2}$
+  
+
+
+
+
+
+
+ 
 
 
 
@@ -242,7 +229,7 @@ $$\lim_{x \to -\infty} \frac{1}{x^2} = 0$$
 
 
 
-
+<!--
  <br><br>
 
  ## 3.Calculate the Following Limits
@@ -283,44 +270,6 @@ $$f(x)=cxm+fxm−1+...+gx+haxn+bxn−1+...+dx+e$$
 In this case, the highest-order term in the numerator is 2x4, and the highest-order term in the denominator is x3. 
 
 As x approaches infinity, 2x4 grows much faster than x3, and so the function f(x) approaches zero.
-
-
-
- 
-
-
-
-
-
-
-
-
-
-
-
-
-#
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
