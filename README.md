@@ -199,6 +199,11 @@ If you have more expressions or need further assistance, feel free to ask!
 
 Similar to the previous expressions, the term ( 2x^5 ) grows at a faster rate than the others, causing the expression to approach infinity.
 
+#
+
+2d): $\lim_{{x \to \infty}} (2x^4 - 3x^3 + x + 6$
+
+
 
 
 
