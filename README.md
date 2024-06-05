@@ -203,6 +203,8 @@ Similar to the previous expressions, the term ( 2x^5 ) grows at a faster rate th
 
 2d): ( $\lim_{{x \to \infty}} (2x^4 - 3x^3 + x + 6)$ )
 
+The limit as ( x ) approaches infinity for ( $2x^4 - 3x^3 + x + 6$ ) is:
+
 
 
 
