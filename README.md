@@ -176,10 +176,6 @@ $$\
 
 
 
-  x→3lim​(2x2−9) = 2(3)2 −9 =18 −9 = 9
-### Limit 2b): The limit as ( x ) approaches negative infinity for ( \frac{4x}{3 + x^2} ) is:
-
-#
 
  
 
