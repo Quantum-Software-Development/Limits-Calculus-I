@@ -168,8 +168,9 @@ $$\
 ## 2. Solve the Limits:
 
 
-#### 2a): 
+#### 2a): The limit as ( x ) approaches infinity for
 
+$( \frac{1}{{x^2}} )$ 
   
 
 
