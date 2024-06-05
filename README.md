@@ -195,6 +195,10 @@ As ( x ) decreases without bound, the value of ( $\frac{1}{{x^2}}$ ) approaches 
 
 The limit as ( x ) approaches infinity for ( x^4 ) is: grows at an increasing rate and approaches infinity.
 
+If you have more expressions or need further assistance, feel free to ask!
+
+Similar to the previous expressions, the term ( 2x^5 ) grows at a faster rate than the others, causing the expression to approach infinity.
+
 
 
 
