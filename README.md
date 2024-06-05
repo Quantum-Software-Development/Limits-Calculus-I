@@ -167,7 +167,7 @@ $$\
 
 
   
-## 1 Limits Solutions:
+## ( 1 Limits Solutions ):
 
 
 ### 2a): $\lim_{x \to \infty} \frac{1}{x^2}$
