@@ -126,7 +126,7 @@ Result: The limit of the function as ( x ) approaches 1 is simply $$\frac{1}{4}$
 
 <br>
 
- <p align="center">This limit can be solved using factorization and polynomial division: <br><br>
+This limit can be solved using factorization and polynomial division: <br><br>
 
 $$\
 \begin{align*}
