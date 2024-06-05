@@ -77,9 +77,7 @@ Therefore, the limit of the function as ( x ) approaches 1 is -2.
 
 $$f(1) = -2$$
 
-&= \frac{1}{2}
-\end{align*}
-\]
+<br>
 
 Result: The limit of the expression is -2.
 
