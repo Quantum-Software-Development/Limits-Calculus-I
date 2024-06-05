@@ -163,9 +163,12 @@ $$\
 
  Result: The limit of the expression is $$\frac{1}{2}$$
 
-
 <br><br>
 
+## 2. Solve the Limits:
+
+
+### 2a): 
 
   
 
