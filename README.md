@@ -168,9 +168,7 @@ $$\
 ## 2. Solve the Limits:
 
 
-#### 2a): 
-
-$$\lim_{x \to \infty} \frac{1}{x^2}$$
+#### 2a): $\lim_{x \to \infty} \frac{1}{x^2}$
 
 <br>
 
@@ -182,9 +180,8 @@ As ( x ) increases without bound, the value of ( $\frac{1}{{x^2}}$ ), approaches
 
 #
 
-2b): 
+2b): $\lim_{x \to -\infty} \frac{1}{x^2}$
   
-
 
 
 
