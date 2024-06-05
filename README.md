@@ -190,7 +190,7 @@ As ( x ) increases without bound, the value of ( $\frac{1}{{x^2}}$ ), approaches
 #
 
 
-### 2b): $\lim_{x \to -\infty} \frac{1}{x^2}$
+### 2b): $\lim_{x \to --\infty} \frac{1}{x^2}$
   
 
 
