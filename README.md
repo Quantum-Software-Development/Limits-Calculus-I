@@ -174,11 +174,7 @@ $$\lim_{x \to \infty} \frac{1}{x^2}$$
 
 <br>
 
- The limit as ( x ) approaches infinity for $$\frac{1}{{x^2}}$$ is: 
-
- <br>
-
- $$\lim_{{x \to \infty}} \frac{1}{{x^2}} = 0$$ 
+ The limit as ( x ) approaches infinity for $$\frac{1}{{x^2}}$$ is: $\lim_{{x \to \infty}} \frac{1}{{x^2}} = 0$ 
 
  <br>
 
