@@ -189,6 +189,10 @@ $\lim_{{x \to -\infty}} \frac{1}{{x^2}} = 0$
 
 As ( x ) decreases without bound, the value of ( $\frac{1}{{x^2}}$ ) approaches 0, similar to part a), because squaring a negative number results in a positive number, which grows larger.
 
+#
+
+### 2c): $\lim_{x \to \infty} x^4$ 
+
 
 
   
