@@ -185,6 +185,8 @@ As ( x ) increases without bound, the value of ( \frac{1}{{x^2}} ) approaches 0 
 
 The limit as ( x ) approaches negative infinity for ( $\frac{1}{{x^2}}$ ) is: 
 
+$\lim_{{x \to -\infty}} \frac{1}{{x^2}} = 0$
+
 
   
 
