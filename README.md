@@ -5,16 +5,23 @@
 
 <br><br>
 
-## <p align="center"> ✍️  Resolution of Mathematics Exercises - Calculus I - Limits and Derivatives
+## <p align="center"> ✍️  *Resolution* of Mathematics Exercises - Calculus I - Limits and Derivatives
 
-##### <p align="center"> AI Data Science - PUCSP University Math Repository - [Professor Eric Bacconi Gonçalves](https://www.linkedin.com/in/eric-bacconi-423137/)
+#### <p align="center"> AI Data Science - PUCSP University Math Repository - [Professor Eric Bacconi Gonçalves](https://www.linkedin.com/in/eric-bacconi-423137/)
 
 <br><br>
 
 ## 1. Find the limits:
 
-### 1a) *Limit Expression:* 
+#### a)
+
+### **Limit Expression:**
+
+$$\\begin{align*}
 $\lim_{{x \to 3}} \frac{{x^2 - 9}}{{x - 3}}$ 
+\end{align*}
+\$$
+
 
 
 <!-- 
