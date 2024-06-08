@@ -7,7 +7,7 @@
 
 ## <p align="center"> ✍️  Resolution of Mathematics Exercises - Calculus I - Limits and Derivatives
 
-##### <p align="center"> AI Data Science - PUCSP University Repository - [Professor Eric Bacconi Gonçalves](https://www.linkedin.com/in/eric-bacconi-423137/)
+##### <p align="center"> AI Data Science - PUCSP University Math Repository - [Professor Eric Bacconi Gonçalves](https://www.linkedin.com/in/eric-bacconi-423137/)
 
 <br><br>
 
