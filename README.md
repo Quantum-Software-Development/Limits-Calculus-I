@@ -187,9 +187,12 @@ As ( x ) decreases without bound, the value of ( $\frac{1}{{x^2}}$ ) approaches 
 
 #
 
-### 2c):(  $\lim_{x \to \infty} x^4$ )
+### 2c): (  $\lim_{x \to \infty} x^4$ )
 
 The limit as ( x ) approaches infinity for ( x^4 ) is: grows at an increasing rate and approaches infinity for ( x^4 ) is:
+
+$\lim_{{x \to \infty}} x^4 = \infty$
+
 
 If you have more expressions or need further assistance, feel free to ask!
 
