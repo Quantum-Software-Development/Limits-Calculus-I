@@ -215,6 +215,9 @@ As ( x ) grows larger, the term ( 2x^4 ) dominates, leading the expression to in
 
 The limit as ( x ) approaches negative infinity for ( 2x^4 - 3x^3 + x + 6 ) is:
 
+$\lim_{x \to -\infty} (2x^4 - 3x^3 + x + 6) = \infty$ 
+
+
 
 
 
