@@ -13,7 +13,7 @@
 
 ## 1. Find the limits:
 
- 1a)  **Limit Expression:**
+⧴ 1a)  **Limit Expression:**
  <!-- $$ \large x^2 - 9$$ -->
 
  <br>
