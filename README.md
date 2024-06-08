@@ -13,7 +13,7 @@
 
 ## 1. Find the limits:
 
- a) **Limit Expression:**
+ a)  **Limit Expression:**
 
 $$\\begin{align*}
 \Large \lim_{{x \to 3}} \frac{{x^2 - 9}}{{x - 3}}
@@ -22,7 +22,7 @@ $$\\begin{align*}
 
 <br>
 
-**Simplified Form:** The numerator ( x^2 - 9 ) can be factored 
+*  **Simplified Form:** The numerator ( x^2 - 9 ) can be factored 
 
 
 
