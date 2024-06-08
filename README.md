@@ -26,6 +26,10 @@ $$\\begin{align*}
 
 
 
+$$ \Large x^2 $$
+
+
+
 
 <!-- 
  To solve this limit, we can use factorization:
