@@ -20,6 +20,8 @@ $$\\begin{align*}
 \end{align*}
 \$$
 
+<br>
+
 **Simplified Form:** The numerator ( x^2 - 9 ) can be factored 
 
 
