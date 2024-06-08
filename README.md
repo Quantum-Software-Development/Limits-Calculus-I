@@ -16,6 +16,8 @@
  a)  **Limit Expression:**
  <!-- $$ \Large x^2 - 9$$ -->
 
+ <br>
+
 $$\\begin{align*}
 \Large \lim_{{x \to 3}} \frac{{x^2 - 9}}{{x - 3}}
 \end{align*}
