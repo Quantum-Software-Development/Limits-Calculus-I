@@ -14,23 +14,23 @@
 ## 1. Find the limits:
 
  a)  **Limit Expression:**
- <!-- $$ \Large x^2 - 9$$ -->
+ <!-- $$ \large x^2 - 9$$ -->
 
  <br>
 
 $$\\begin{align*}
-\Large \lim_{{x \to 3}} \frac{{x^2 - 9}}{{x - 3}}
+\large \lim_{{x \to 3}} \frac{{x^2 - 9}}{{x - 3}}
 \end{align*}
 \$$
 
 <br>
 
-*  **Simplified Form:** The numerator  $\Large x^2 - 9$, can be factored as ( (x + 3)(x - 3) ), which simplifies the expression to:
+*  **Simplified Form:** The numerator  $\large x^2 - 9$, can be factored as ( (x + 3)(x - 3) ), which simplifies the expression to:
 
 <br>
 
 $$\\begin{align*}
-\Large \lim_{{x \to 3}} (x + 3) 
+\large \lim_{{x \to 3}} (x + 3) 
 \end{align*}
 \$$
 
@@ -44,7 +44,9 @@ $$\large  3 + 3 = 6$$
 
 <br>
 
-*  **Explanation:** The limit as ( x ) approaches 3 for the function ( \frac{{x^2 - 9}}{{x - 3}} ) is 6. This is because the factor ( x - 3 ) in the denominator cancels out with the same factor in the numerator, leaving ( x + 3 ) which evaluates to 6 when ( x ) is 3.
+*  **Explanation:** The limit as ( x ) approaches 3 for the function $\frac{{x^2 - 9}}{{x - 3}}$ is 6.
+
+  This is because the factor ( x - 3 ) in the denominator cancels out with the same factor in the numerator, leaving ( x + 3 ) which evaluates to 6 when ( x ) is 3.
  
 
 
