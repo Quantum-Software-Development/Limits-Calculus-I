@@ -166,10 +166,6 @@ $$\
 ## 2. Solve the Limits:
 
 
-  
-## ( 1 Limits Solutions ):
-
-
 ### 2a): ( $\lim_{x \to \infty} \frac{1}{x^2}$ )
 
 The limit as ( x ) approaches infinity for ( $\frac{1}{{x^2}}$ ):
