@@ -20,8 +20,7 @@ $$\\begin{align*}
 \end{align*}
 \$$
 
-
-####  **Simplified Form:** The numerator ( x^2 - 9 ) can be factored 
+**Simplified Form:** The numerator ( x^2 - 9 ) can be factored 
 
 
 
