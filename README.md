@@ -13,7 +13,7 @@
 
 ## 1. Find the limits:
 
-### 1a) $\(\lim_{x \to 3}\frac{x^{2}-9}{x-3
+### 1a) *Limit Expression:* $\lim_{{x \to 3}} \frac{{x^2 - 9}}{{x - 3}}$ 
 
 
 <!-- 
@@ -26,11 +26,10 @@ $$\\begin{align*}
 &= 6
 \end{align*}
 \$$
+
+Result: The limit of the expression is 6.
+
 -->
-
-<br>
-
- Result: The limit of the expression is 6.
 
 #
 
