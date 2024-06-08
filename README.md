@@ -40,7 +40,11 @@ $$\\begin{align*}
 
 <br>
 
-$$\Large  3 + 3 = 6$$
+$$\large  3 + 3 = 6$$
+
+<br>
+
+*  **Explanation:** The limit as ( x ) approaches 3 for the function ( \frac{{x^2 - 9}}{{x - 3}} ) is 6. This is because the factor ( x - 3 ) in the denominator cancels out with the same factor in the numerator, leaving ( x + 3 ) which evaluates to 6 when ( x ) is 3.
  
 
 
