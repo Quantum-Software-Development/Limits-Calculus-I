@@ -200,7 +200,7 @@ Similar to the previous expressions, the term ( 2x^5 ) grows at a faster rate th
 
 #
 
-2d): ( $\lim_{{x \to \infty}} (2x^4 - 3x^3 + x + 6)$ )
+### 2d): ( $\lim_{{x \to \infty}} (2x^4 - 3x^3 + x + 6)$ )
 
 The limit as ( x ) approaches infinity for ( $2x^4 - 3x^3 + x + 6$ ) is:
 
@@ -210,7 +210,7 @@ As ( x ) grows larger, the term ( 2x^4 ) dominates, leading the expression to in
 
 #
 
-2e):
+### 2e):
 
 The limit as ( x ) approaches negative infinity for ( 2x^4 - 3x^3 + x + 6 ) is:
 
@@ -221,7 +221,7 @@ Even though ( x ) is negative, the highest power term ( x^4 )  will still lead t
 
 #
 
-2f) 
+### 2f) 
 
 
 
