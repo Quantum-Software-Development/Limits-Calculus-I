@@ -22,11 +22,12 @@ $$\\begin{align*}
 
 <br>
 
-*  **Simplified Form:** The numerator ( x^2 - 9 ) can be factored 
+<!-- $$ \Large x^2 - 9$$ -->
+*  **Simplified Form:** The numerator  $\Large x^2 - 9$, can be factored as:
 
 
 
-$$ \Large x^2 $$
+
 
 
 
