@@ -13,7 +13,7 @@
 
 ## 1. Find the limits:
 
- a)  **Limit Expression:**
+ 1a)  **Limit Expression:**
  <!-- $$ \large x^2 - 9$$ -->
 
  <br>
@@ -48,26 +48,6 @@ $$\large  3 + 3 = 6$$
 
   This is because the factor ( x - 3 ) in the denominator cancels out with the same factor in the numerator, leaving ( x + 3 ) which evaluates to 6 when ( x ) is 3.
  
-
-
-
-
-
-<!-- 
- To solve this limit, we can use factorization:
- 
-$$\\begin{align*}
-\lim_{x \to 3}\frac{x^{2}-9}{x-3} &= \lim_{x \to 3}\frac{(x+3)(x-3)}{x-3} \\
-&= \lim_{x \to 3}(x+3) \\
-&= 3+3 \\
-&= 6
-\end{align*}
-\$$
-
-Result: The limit of the expression is 6.
-
--->
-
 #
 
 ### 1b) $$\(\lim_{x \to -7}\frac{49-x^{2}}{7+x}\)$$
