@@ -222,6 +222,7 @@ Limit f): The limit as ( x ) approaches infinity for ( 2x^5 - 3x^2 + 6 ) is: 
 
 The limit as ( x ) approaches negative infinity for 
 
+$( 2x^4 - 3x^3 + x + 6 ) is: 
 
 
 
