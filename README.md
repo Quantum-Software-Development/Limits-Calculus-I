@@ -189,7 +189,7 @@ As ( x ) decreases without bound, the value of ( $\frac{1}{{x^2}}$ ) approaches 
 
 ### 2c):(  $\lim_{x \to \infty} x^4$ )
 
-The limit as ( x ) approaches infinity for ( x^4 ) is: grows at an increasing rate and approaches infinity.
+The limit as ( x ) approaches infinity for ( x^4 ) is: grows at an increasing rate and approaches infinity for ( x^4 ) is:
 
 If you have more expressions or need further assistance, feel free to ask!
 
@@ -213,12 +213,12 @@ The limit as ( x ) approaches negative infinity for ( 2x^4 - 3x^3 + x + 6 ) is:
 
 $\lim_{x \to -\infty} (2x^4 - 3x^3 + x + 6) = \infty$ 
 
- Even though ( x ) is negative, the highest power term ( x^4 )  will still lead the expression to increase without bound because the even power makes it positive.
+Even though ( x ) is negative, the highest power term ( x^4 )  will still lead the expression to increase without bound because the even power makes it positive.
 
 
 #
 
-2f)
+2f) 
 
 
 
