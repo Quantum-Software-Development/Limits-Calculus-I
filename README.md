@@ -217,7 +217,7 @@ The limit as ( x ) approaches negative infinity for ( 2x^4 - 3x^3 + x + 6 ) is:
 
 $\lim_{x \to -\infty} (2x^4 - 3x^3 + x + 6) = \infty$ 
 
-
+ Even though ( x ) is negative, the highest power term ( x^4 )
 
 
 
