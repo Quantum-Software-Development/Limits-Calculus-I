@@ -15,10 +15,10 @@
 
 ### 1a) $\(\lim_{x \to 3}\frac{x^{2}-9}{x-3
 
+
+<!-- 
  To solve this limit, we can use factorization:
-
- <br>
-
+ 
 $$\\begin{align*}
 \lim_{x \to 3}\frac{x^{2}-9}{x-3} &= \lim_{x \to 3}\frac{(x+3)(x-3)}{x-3} \\
 &= \lim_{x \to 3}(x+3) \\
@@ -26,6 +26,7 @@ $$\\begin{align*}
 &= 6
 \end{align*}
 \$$
+-->
 
 <br>
 
