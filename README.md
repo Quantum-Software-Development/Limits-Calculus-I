@@ -166,10 +166,6 @@ $$\
 ## 2. Solve the Limits:
 
 
-  
-## ( 1 Limits Solutions ):
-
-
 ### 2a): ( $\lim_{x \to \infty} \frac{1}{x^2}$ )
 
 The limit as ( x ) approaches infinity for ( $\frac{1}{{x^2}}$ ):
@@ -191,9 +187,12 @@ As ( x ) decreases without bound, the value of ( $\frac{1}{{x^2}}$ ) approaches 
 
 #
 
-### 2c):(  $\lim_{x \to \infty} x^4$ )
+### 2c): (  $\lim_{x \to \infty} x^4$ )
 
-The limit as ( x ) approaches infinity for ( x^4 ) is: grows at an increasing rate and approaches infinity.
+The limit as ( x ) approaches infinity for ( x^4 ) is: grows at an increasing rate and approaches infinity for ( x^4 ) is:
+
+$\lim_{{x \to \infty}} x^4 = \infty$
+
 
 If you have more expressions or need further assistance, feel free to ask!
 
@@ -201,7 +200,7 @@ Similar to the previous expressions, the term ( 2x^5 ) grows at a faster rate th
 
 #
 
-2d): ( $\lim_{{x \to \infty}} (2x^4 - 3x^3 + x + 6)$ )
+### 2d): ( $\lim_{{x \to \infty}} (2x^4 - 3x^3 + x + 6)$ )
 
 The limit as ( x ) approaches infinity for ( $2x^4 - 3x^3 + x + 6$ ) is:
 
@@ -211,18 +210,21 @@ As ( x ) grows larger, the term ( 2x^4 ) dominates, leading the expression to in
 
 #
 
-2e):
+### 2e):
 
 The limit as ( x ) approaches negative infinity for ( 2x^4 - 3x^3 + x + 6 ) is:
 
 $\lim_{x \to -\infty} (2x^4 - 3x^3 + x + 6) = \infty$ 
 
- Even though ( x ) is negative, the highest power term ( x^4 )  will still lead the expression to increase without bound because the even power makes it positive.
+Even though ( x ) is negative, the highest power term ( x^4 )  will still lead the expression to increase without bound because the even power makes it positive.
 
 
 #
 
  Limit f): The limit as ( x ) approaches infinity for ( 2x^5 - 3x^2 + 6 ) is: 
+
+### 2f) 
+
 
 
 
