@@ -220,7 +220,7 @@ $\lim_{x \to -\infty} (2x^4 - 3x^3 + x + 6) = \infty$ 
  Even though ( x ) is negative, the highest power term ( x^4 )  will still lead the expression to increase without bound because the even power makes it positive.
 
 
-
+#
 
 
 
