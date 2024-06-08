@@ -16,7 +16,7 @@
 #### a) **Limit Expression:**
 
 $$\\begin{align*}
-$\lim_{{x \to 3}} \frac{{x^2 - 9}}{{x - 3}}$ 
+\lim_{{x \to 3}} \frac{{x^2 - 9}}{{x - 3}}
 \end{align*}
 \$$
 
