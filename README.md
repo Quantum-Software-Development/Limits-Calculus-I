@@ -27,12 +27,21 @@ $$\\begin{align*}
 
 *  **Simplified Form:** The numerator  $\Large x^2 - 9$, can be factored as ( (x + 3)(x - 3) ), which simplifies the expression to:
 
+<br>
+
 $$\\begin{align*}
 \Large \lim_{{x \to 3}} (x + 3) 
 \end{align*}
 \$$
 
 <br>
+
+*  **Final Result:** Substituting ( x ) with 3, we get:
+
+<br>
+
+$$\Large  3 + 3 = 6$$
+ 
 
 
 
