@@ -5,9 +5,9 @@
 
 <br><br>
 
-## <p align="center"> ✍️  Resolution of Mathematics Exercises - Calculus - Limits and Derivatives
+## <p align="center"> ✍️  Resolution of Mathematics Exercises - Calculus I - Limits and Derivatives
 
-#### <p align="center"> AI Data Science - PUCSP University Repository - [Professor Eric Bacconi Gonçalves](https://www.linkedin.com/in/eric-bacconi-423137/)
+#### <p align="center"> AI Data Science - PUCSP University Math Repository - [Professor Eric Bacconi Gonçalves](https://www.linkedin.com/in/eric-bacconi-423137/)
 
 <br><br>
 
@@ -16,6 +16,9 @@
 <br>
 
 ### 1a) Limit Expression: $\lim_{{x \to 3}} \frac{{x^2 - 9}}{{x - 3}}$
+
+#### 1a)  **Limit Expression:**
+
 
 
 <!--
@@ -26,6 +29,7 @@ $$\\begin{align*}
 &= \lim_{x \to 3}(x+3) \\
 &= 3+3 
 &= 6
+\large \lim_{{x \to 3}} \frac{{x^2 - 9}}{{x - 3}}
 \end{align*}
 \$$
 
@@ -33,8 +37,29 @@ $$\\begin{align*}
 
 <br>
 
- Result: The limit of the expression is 6.
+*  **Simplified Form:** The numerator  $\large x^2 - 9$, can be factored as ( (x + 3)(x - 3) ), which simplifies the expression to:
 
+<br>
+
+$$\\begin{align*}
+\large \lim_{{x \to 3}} (x + 3) 
+\end{align*}
+\$$
+
+<br>
+
+*  **Final Result:** Substituting ( x ) with 3, we get:
+
+<br>
+
+$$\large  3 + 3 = 6$$
+
+<br>
+
+*  **Explanation:** The limit as ( x ) approaches 3 for the function $\large \frac{{x^2 - 9}}{{x - 3}}$ is 6.
+
+  This is because the factor ( x - 3 ) in the denominator cancels out with the same factor in the numerator, leaving ( x + 3 ) which evaluates to 6 when ( x ) is 3.
+ 
 #
 
 ### 1b) $$\(\lim_{x \to -7}\frac{49-x^{2}}{7+x}\)$$
@@ -81,9 +106,7 @@ Therefore, the limit of the function as ( x ) approaches 1 is -2.
 
 $$f(1) = -2$$
 
-&= \frac{1}{2}
-\end{align*}
-\]
+<br>
 
 Result: The limit of the expression is -2.
 
@@ -130,7 +153,7 @@ Result: The limit of the function as ( x ) approaches 1 is simply $$\frac{1}{4}$
 
 <br>
 
- <p align="center">This limit can be solved using factorization and polynomial division: <br><br>
+This limit can be solved using factorization and polynomial division: <br><br>
 
 $$\
 \begin{align*}
@@ -167,55 +190,82 @@ $$\
 
  Result: The limit of the expression is $$\frac{1}{2}$$
 
-#
-
- <br><br>
-
-
-
-<br>
-
- $$x→∞lim (2x4−3x3+x+6)=∞$$
-
 <br><br>
 
-## 2 Limits Solutions:
+## 2. Solve the Limits:
 
-### 2a) 
 
-$$\lim_{x \to \infty} \frac{1}{x^2}$$
+### 2a): ( $\lim_{x \to \infty} \frac{1}{x^2}$ )
 
-<br>
+The limit as ( x ) approaches infinity for ( $\frac{1}{{x^2}}$ ):
 
-#### As x approaches infinity, the denominator ($x^2$) grows infinitely large, while the numerator remains constant at 1. This means the fraction becomes increasingly small, approaching zero.
+is: $\lim_{{x \to \infty}} \frac{1}{{x^2}} = 0$ 
 
-<br>
-
-Solution: 
-
-$$\lim_{x \to \infty} \frac{1}{x^2} = 0$$
-
-<br><br>
-
-## 2b) 
-
-$$\lim_{x \to -\infty} \frac{1}{x^2}$$
-
-Similar to the previous case, as x approaches negative infinity, the denominator ($x^2$) grows infinitely large (but remains positive), and the numerator remains constant at 1. 
-
-<BR>
-
-The fraction becomes increasingly small, approaching zero.
-
-<BR>
-
-Solution: 
-
-$$\lim_{x \to -\infty} \frac{1}{x^2} = 0$$
+As ( x ) increases without bound, the value of ( \frac{1}{{x^2}} ) approaches 0 because the denominator grows much faster than the numerator.
 
 #
 
-3c) 
+
+### 2b): ( $\lim_{x \to -\infty} \frac{1}{x^2}$ )
+
+The limit as ( x ) approaches negative infinity for ( $\frac{1}{{x^2}}$ ) is: 
+
+$\lim_{{x \to -\infty}} \frac{1}{{x^2}} = 0$
+
+As ( x ) decreases without bound, the value of ( $\frac{1}{{x^2}}$ ) approaches 0, similar to part a), because squaring a negative number results in a positive number, which grows larger.
+
+#
+
+### 2c): (  $\lim_{x \to \infty} x^4$ )
+
+The limit as ( x ) approaches infinity for ( x^4 ) is: grows at an increasing rate and approaches infinity for ( x^4 ) is:
+
+$\lim_{{x \to \infty}} x^4 = \infty$
+
+
+If you have more expressions or need further assistance, feel free to ask!
+
+Similar to the previous expressions, the term ( 2x^5 ) grows at a faster rate than the others, causing the expression to approach infinity.
+
+#
+
+### 2d): ( $\lim_{{x \to \infty}} (2x^4 - 3x^3 + x + 6)$ )
+
+The limit as ( x ) approaches infinity for ( $2x^4 - 3x^3 + x + 6$ ) is:
+
+$\lim_{x \to \infty} (2x^4 - 3x^3 + x + 6) = \infty$ 
+
+As ( x ) grows larger, the term ( 2x^4 ) dominates, leading the expression to increase without bound.
+
+#
+
+### 2e):
+
+The limit as ( x ) approaches negative infinity for ( 2x^4 - 3x^3 + x + 6 ) is:
+
+$\lim_{x \to -\infty} (2x^4 - 3x^3 + x + 6) = \infty$ 
+
+Even though ( x ) is negative, the highest power term ( x^4 )  will still lead the expression to increase without bound because the even power makes it positive.
+
+
+#
+
+### 2f) : The limit as ( x ) approaches infinity for ( 2x^5 - 3x^2 + 6 ) is: 
+
+The limit as ( x ) approaches negative infinity for ( 2x^4 - 3x^3 + x + 6 ) is: 
+
+$\lim_{x \to -\infty} (2x^4 - 3x^3 + x + 6) = \infty  Even though ( x ) is negative, y.
+
+
+
+  
+
+
+
+
+
+
+ 
 
 
 
@@ -246,7 +296,7 @@ $$\lim_{x \to -\infty} \frac{1}{x^2} = 0$$
 
 
 
-
+<!--
  <br><br>
 
  ## 3.Calculate the Following Limits
@@ -287,44 +337,6 @@ $$f(x)=cxm+fxm−1+...+gx+haxn+bxn−1+...+dx+e$$
 In this case, the highest-order term in the numerator is 2x4, and the highest-order term in the denominator is x3. 
 
 As x approaches infinity, 2x4 grows much faster than x3, and so the function f(x) approaches zero.
-
-
-
- 
-
-
-
-
-
-
-
-
-
-
-
-
-#
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
