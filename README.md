@@ -13,25 +13,7 @@
 
 ## 1. Find the limits:
 
-<br>
-
 ### 1a)  **Limit Expression:**
-
-
-
-<!--
- <p align="center">  To solve this limit, we can use factorization:
-
-$$\\begin{align*}
-\lim_{x \to 3}\frac{x^{2}-9}{x-3} &= \lim_{x \to 3}\frac{(x+3)(x-3)}{x-3} \\
-&= \lim_{x \to 3}(x+3) \\
-&= 3+3 
-&= 6
-\large \lim_{{x \to 3}} \frac{{x^2 - 9}}{{x - 3}}
-\end{align*}
-\$$
-
--->
 
 <br>
 
