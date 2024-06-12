@@ -52,6 +52,11 @@ $$\lim_{{x \to -7}} \frac{{49 - x^2}}{{7 + x}}$$
 
 * **Simplified Form:** The numerator $\large ( 49 - x^2 )$ is a difference of squares and can be factored as $\large (7 + x)(7 - x)$.
 
+<br>
+
+*  **This allows us to simplify the expression by canceling out the common factor of:**  $\large ( 7 + x )$ in the numerator and denominator:
+
+$$\lim_{{x \to -7}} (7 - x) $$
 
 
 
