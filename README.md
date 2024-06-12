@@ -44,9 +44,11 @@ $$\large  3 + 3 = 6$$
  
 #
 
-#### 1b) The Limit Expression given is:
+#### 1b) **The Limit Expression given is:**
 
 $$\lim_{{x \to -7}} \frac{{49 - x^2}}{{7 + x}}$$
+
+
 
 
 
