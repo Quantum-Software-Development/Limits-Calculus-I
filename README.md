@@ -243,6 +243,8 @@ These processes demonstrates how limits help us understand the behavior of funct
 
 #
 
+###### <p align="center"> [Copyright 2024 Quantum Software Development. Code released under the MIT License license.]()
+
 
   
 
@@ -334,7 +336,8 @@ As x approaches infinity, 2x4 grows much faster than x3, and so the function f(x
 
 #
 
-######  <p align="center"> [Copyright 2024 Quantum-Software-Development. Code released under the MIT license.](https://github.com/Quantum-Software-Development/Q-Star/blob/f5115a1a073bdb3fa68c51bb3b3414c8e0b0270e/LICENSE)
+###### <p align="center"> [Copyright 2024 Quantum Software Development. Code released under the Apache-2.0 license.](https://github.com/Quantum-Software-Development/.github/blob/39cb7f4118242778536b138bf035bba3031741e9/LICENSE)
+
 
 
 
