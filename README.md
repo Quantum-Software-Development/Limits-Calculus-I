@@ -58,6 +58,9 @@ $$\lim_{{x \to -7}} \frac{{49 - x^2}}{{7 + x}}$$
 
 $$\large \lim_{{x \to -7}} (7 - x) $$
 
+<br>
+
+* **Final Result:** When we substitute ( x ) with -7, the expression simplifies to: 7 - (-7) = 14
 
 
 
