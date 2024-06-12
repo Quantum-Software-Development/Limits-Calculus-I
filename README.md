@@ -15,6 +15,8 @@
 
 ### 1a)  **Limit Expression:**
 
+$$lim_{{x \to 3}} \frac{{x^2 - 9}}{{x - 3}}$$
+
 <br>
 
 *  **Simplified Form:** The numerator  $\large x^2 - 9$, can be factored as ( (x + 3)(x - 3) ), which simplifies the expression to:
