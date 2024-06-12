@@ -56,7 +56,7 @@ $$\lim_{{x \to -7}} \frac{{49 - x^2}}{{7 + x}}$$
 
 *  **This allows us to simplify the expression by canceling out the common factor of:**  $\large ( 7 + x )$ in the numerator and denominator:
 
-$$\lim_{{x \to -7}} (7 - x) $$
+$$\large \lim_{{x \to -7}} (7 - x) $$
 
 
 
