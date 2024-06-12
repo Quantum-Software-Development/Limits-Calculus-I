@@ -237,6 +237,12 @@ $\lim_{x \to -\infty} (2x^4 - 3x^3 + x + 6) = \infty  Even though ( x ) is n
 
 -->
 
+#
+
+These processes demonstrates how limits help us understand the behavior of functions near points that might not be defined, by finding equivalent expressions that are easier to evaluate.
+
+#
+
 
   
 
