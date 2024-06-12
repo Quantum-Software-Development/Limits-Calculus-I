@@ -44,53 +44,28 @@ $$\large  3 + 3 = 6$$
  
 #
 
-### 1b) $$\(\lim_{x \to -7}\frac{49-x^{2}}{7+x}\)$$
+### 1b) 
 
-Again, we can use factorization:
 
-$$\\begin{align*}
-\lim_{{x \to -7}} \frac{{49 - x^2}}{{7 + x}} &= \lim_{{x \to -7}} \frac{{(7 + x)(7 - x)}}{{7 + x}} \\
-&= \lim_{{x \to -7}} (7 - x) \\
-&= -7 - 7 \\
-&= -14
-\end{align*}
-\$$
 
-Result: The limit of the expression is -14.
+
+
+
 
 #
 
-### 1c) $$\lim_{{x \to 0}} \frac{x^3}{2x^2 - x}$$
+### 1c) 
 
-We factor out ( x ) from the denominator:
 
-$$= \lim_{{x \to 0}} \frac{x^3}{x(2x - 1)}$$
 
-We cancel out an ( x^2 ) term from the numerator and denominator:
 
-$$= \lim_{{x \to 0}} \frac{x}{(2x - 1)} =\frac{0}{-1} = 0$$
-
-Result: The limit of the expression is 0.
 
 #
 
-### 1d) $$f(x) = \lim_{x \to 1} \frac{x^2 - 4x + 3}{x - 1}$$
+### 1d) $
 
-To calculate the limit, we can simplify the expression by factoring the numerator, which results in:
 
-$$(x-1)(x-3)$$
 
-By canceling out the ( x-1 ) term with the denominator, we get:
-
-$$f(x) = \lim_{x \to 1} (x-3)$$
-
-Therefore, the limit of the function as ( x ) approaches 1 is -2.
-
-$$f(1) = -2$$
-
-<br>
-
-Result: The limit of the expression is -2.
 
 #
 
