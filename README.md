@@ -13,7 +13,7 @@
 
 ## 1. Find the limits:
 
-### 1a)  **Limit Expression:**
+#### 1a)  **Limit Expression:**
 
 $$lim_{{x \to 3}} \frac{{x^2 - 9}}{{x - 3}}$$
 
@@ -44,7 +44,7 @@ $$\large  3 + 3 = 6$$
  
 #
 
-### 1b) The Limit Expression given is:
+#### 1b) The Limit Expression given is:
 
 $$\lim_{{x \to -7}} \frac{{49 - x^2}}{{7 + x}}$$
 
