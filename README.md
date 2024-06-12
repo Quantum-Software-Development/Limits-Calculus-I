@@ -48,17 +48,13 @@ $$\large  3 + 3 = 6$$
 
 $$\lim_{{x \to -7}} \frac{{49 - x^2}}{{7 + x}}$$
 
+<br>
+
+* **Simplified Form:** The numerator $\large ( 49 - x^2 )$ is a difference of squares and can be factored as $\large (7 + x)(7 - x)$.
 
 
 
 
-
-
-
-
-#
-
-### 1c) 
 
 
 
@@ -66,14 +62,22 @@ $$\lim_{{x \to -7}} \frac{{49 - x^2}}{{7 + x}}$$
 
 #
 
-### 1d) $
+#### 1c) 
+
 
 
 
 
 #
 
-### 1e)  $$\lim_{{x \to 1}} \frac{{x^2 - 2x + 1}}{{x - 1}}$$
+#### 1d) $
+
+
+
+
+#
+
+#### 1e)  $$\lim_{{x \to 1}} \frac{{x^2 - 2x + 1}}{{x - 1}}$$
 
 
 To calculate the limit, we can simplify the expression by factoring the numerator, which is a perfect square trinomial. Factoring (x^2 - 2x + 1), we get ((x - 1)(x - 1)). The denominator is already in factored form as (x - 1). Thus, the function simplifies to:
