@@ -73,14 +73,14 @@ $$\large \lim_{{x \to -7}} (7 - x) $$
 
  <br>
 
-* **Explanation:** The limit of the function $(\large \frac{{49 - x^2}}{{7 + x}} )$ as ( x ) approaches -7 is 14.
+* **Explanation:** The limit of the function $(\Large \frac{{49 - x^2}}{{7 + x}} )$ as ( x ) approaches -7 is 14.
   This result is obtained because after canceling the common factor, we are left with ( 7 - x ), which equals 14 when ( x ) is -7.
 
   #
 
 #### 1c)  8 88**Limit Expression:** 
 
-$$lim_{{x \to 1}} \frac{{x^2 - 4x + 3}}{{x - 1}}$$ 
+$$lim_{{\Largex \to 1}} \frac{{x^2 - 4x + 3}}{{x - 1}}$$ 
 
 
 
