@@ -80,7 +80,7 @@ $$\large \lim_{{x \to -7}} (7 - x) $$
 
 #### 1c)  8 88**Limit Expression:** 
 
-lim_{{x \to 1}} \frac{{x^2 - 4x + 3}}{{x - 1}} 
+$$lim_{{x \to 1}} \frac{{x^2 - 4x + 3}}{{x - 1}}$$ 
 
 
 
