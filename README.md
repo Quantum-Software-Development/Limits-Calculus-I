@@ -72,6 +72,8 @@ $$\large \lim_{{x \to -7}} (7 - x) $$
 * **Explanation:** The limit of the function $(\large \frac{{49 - x^2}}{{7 + x}} )$ as ( x ) approaches -7 is 14.
   This result is obtained because after canceling the common factor, we are left with ( 7 - x ), which equals 14 when ( x ) is -7.
 
+  #
+
 
 
 
