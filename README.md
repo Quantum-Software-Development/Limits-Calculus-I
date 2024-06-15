@@ -76,7 +76,7 @@ $$\large \lim_{{x \to -7}} (7 - x) $$
 
 #### 1c) 
 
-Limit Expression: 
+* **Limit Expression:** 
 
 
 
