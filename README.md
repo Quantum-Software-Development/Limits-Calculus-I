@@ -4,8 +4,6 @@
 <img src="https://github.com/Quantum-Software-Development/Math/assets/113218619/58c8c407-2971-4a65-9030-e25d76617687"/>
 -->
 
-
-
  
 
  <p align="center">
@@ -131,7 +129,8 @@ $$lim_{{\Large \to 1}} \frac{{x^2 - 4x + 3}}{{x - 1}}$$
 
 
 
---
+<!--   -- ---- -- --- -- --- Review Later -- ------  -->
+
 #### 1e)  $$\lim_{{x \to 1}} \frac{{x^2 - 2x + 1}}{{x - 1}}$$
 
 
