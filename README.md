@@ -12,7 +12,7 @@
 
 <br><br>
 
-# <p align="center"> ✍️  Resolution of Mathematics Exercises - Calculus I - Limits
+# <p align="center"> ✍️ Limits - Calculus I - Resolution of Mathematics Exercises
 
 #### <p align="center"> AI Data Science - PUCSP University Math Repository - [Professor Eric Bacconi Gonçalves](https://www.linkedin.com/in/eric-bacconi-423137/)
 
