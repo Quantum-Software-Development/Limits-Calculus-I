@@ -34,7 +34,7 @@ $$lim_{{x \to 3}} \frac{{x^2 - 9}}{{x - 3}}$$
 
 <br>
 
-*  **Simplified Form:** The numerator  $\large x^2 - 9$, can be factored as ( (x + 3)(x - 3) ), which simplifies the expression to:
+*  **Simplified Form:** The numerator  $$\large x^2 - 9$$, can be factored as (x + 3)(x - 3) ), which simplifies the expression to:
 
 <br>
 
@@ -45,9 +45,9 @@ $$\\begin{align*}
 
 <br>
 
-*  **Final Result:** Substituting ( x ) with 3, we get:
+*  [**Final Result:**]()
 
-<br>
+Substituting ( x ) with 3, we get: 
 
 $$\large  3 + 3 = 6$$
 
@@ -75,7 +75,9 @@ $$\large \lim_{{x \to -7}} (7 - x) $$
 
 <br>
 
-* **Final Result:** When we substitute ( x ) with -7, the expression simplifies to: 7 - (-7) = 14
+* [**Final Result:**]()
+
+When we substitute ( x ) with -7, the expression simplifies to: 7 - (-7) = 14
 
  <br>
 
@@ -85,65 +87,18 @@ $$\large \lim_{{x \to -7}} (7 - x) $$
 
   #
 
-#### 1c)  8 88**Limit Expression:** 
+### 1c) **Limit Expression:** 
 
-$$lim_{{\Large \to 1}} \frac{{x^2 - 4x + 3}}{{x - 1}}$$
+$$lim_{{\Large \to 1}} \frac{{x^2 - 4x + 3}}{{x - 1}}$$n  
 
-
-
-
+<br>
 
 
+### 1d)   **Limit Expression:** 
 
+$$\lim_{{x \to 1}} \frac{{x^2 - 2x + 1}}{{x - 1}}$$
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!--   -- ---- -- --- -- --- Review Later -- ------  -->
-
-
-#### 1e)  $$\lim_{{x \to 1}} \frac{{x^2 - 2x + 1}}{{x - 1}}$$
-
+<br>
 
 To calculate the limit, we can simplify the expression by factoring the numerator, which is a perfect square trinomial. Factoring (x^2 - 2x + 1), we get ((x - 1)(x - 1)). The denominator is already in factored form as (x - 1). Thus, the function simplifies to:
 
@@ -157,11 +112,17 @@ Since there are no more terms that depend on ( x ), this simplifies to:
 
 $$\lim_{{x \to 1}} = x - 1 = 0$$
 
-Result: The limit of the function as ( x ) approaches 1 is simply 0.
+[Final Result:]()
+
+The limit of the function as ( x ) approaches 1 is simply 0.
 
 #
 
-### 1f)  $$\lim_{{x \to 2}} \frac{{x - 2}}{{x^2 - 4}}$$
+### 1e)  **Limit Expression:** 
+
+$$\lim_{{x \to 2}} \frac{{x - 2}}{{x^2 - 4}}$$
+
+<br>
 
 To solve this limit, we need to factor the denominator and simplify the expression. The denominator ( x^2 - 4 ) can be factored into ( (x + 2)(x - 2) ), which allows us to cancel out the ( x - 2 ) term in the numerator:
 
@@ -173,13 +134,17 @@ $$\frac{1}{4}$$
 
 <br>
 
-Result: The limit of the function as ( x ) approaches 1 is simply $$\frac{1}{4}$$
+[Final Result:]()
+
+The limit of the function as ( x ) approaches 1 is simply $$\frac{1}{4}$$
 
 
 #
 
 
-### 1g)   $$\(\lim_{{x \to 3}} \frac{{x^3 - 27}}{{x^2 - 5x + 6}}\)$$
+### 1f)    **Limit Expression:** 
+
+$$\(\lim_{{x \to 3}} \frac{{x^3 - 27}}{{x^2 - 5x + 6}}\)$$
 
 <br>
 
@@ -197,12 +162,18 @@ $$\
 
 <br>
 
-Result: The limit of the function as ( x ) approaches 1 is simply $$\frac{1}{4}$$
+[FINAL Result:]()
+
+The limit of the function as ( x ) approaches 1 is simply $$\frac{1}{4}$$
 
 
 #
 
-### 1h: $$\(\lim_{{x \to \infty}} \frac{{x^2}}{{2x^2 - x}}\)$$
+### 1g:  **Limit Expression:** 
+
+$$\(\lim_{{x \to \infty}} \frac{{x^2}}{{2x^2 - x}}\)$$
+
+<br>
 
 In this case, we can use L'Hôpital's rule, as the limit is of the form \(\frac{0}{0}\) or \(\frac{\infty}{\infty}\) when \(x\) tends to infinity.
 
@@ -216,16 +187,21 @@ $$\
 \end{align*}
 \$$
 
-<br>
 
- Result: The limit of the expression is $$\frac{1}{2}$$
+[Final Result:]() 
+ 
+ The limit of the expression is $$\frac{1}{2}$$
 
-<br><br>
+#
 
-## 2. Solve the Limits:
+## [2. Solve the Limits:]()
 
 
-### 2a): ( $\lim_{x \to \infty} \frac{1}{x^2}$ )
+### 2a):  **Limit Expression:** 
+
+ $\lim_{x \to \infty} \frac{1}{x^2}$ 
+
+<BR> 
 
 The limit as ( x ) approaches infinity for ( $\frac{1}{{x^2}}$ ):
 
@@ -236,7 +212,11 @@ As ( x ) increases without bound, the value of ( \frac{1}{{x^2}} ) approaches 0 
 #
 
 
-### 2b): ( $\lim_{x \to -\infty} \frac{1}{x^2}$ )
+### 2b)  **Limit Expression:** 
+
+( $\lim_{x \to -\infty} \frac{1}{x^2}$ )
+
+<br>
 
 The limit as ( x ) approaches negative infinity for ( $\frac{1}{{x^2}}$ ) is: 
 
@@ -246,30 +226,25 @@ As ( x ) decreases without bound, the value of ( $\frac{1}{{x^2}}$ ) approaches 
 
 #
 
-### 2c): (  $\lim_{x \to \infty} x^4$ )
+### 2c)  **Limit Expression:** 
+
+$\lim_{x \to \infty} x^4$ 
+
+<br>
 
 The limit as ( x ) approaches infinity for ( x^4 ) is: grows at an increasing rate and approaches infinity for ( x^4 ) is:
 
 $\lim_{{x \to \infty}} x^4 = \infty$
 
-
-If you have more expressions or need further assistance, feel free to ask!
-
 Similar to the previous expressions, the term ( 2x^5 ) grows at a faster rate than the others, causing the expression to approach infinity.
 
 #
 
-### 2d): ( $\lim_{{x \to \infty}} (2x^4 - 3x^3 + x + 6)$ )
+### 2d)  **Limit Expression:** 
 
-The limit as ( x ) approaches infinity for ( $2x^4 - 3x^3 + x + 6$ ) is:
+$\lim_{{x \to \infty}} (2x^4 - 3x^3 + x + 6)$ 
 
-$\lim_{x \to \infty} (2x^4 - 3x^3 + x + 6) = \infty$ 
-
-As ( x ) grows larger, the term ( 2x^4 ) dominates, leading the expression to increase without bound.
-
-#
-
-### 2e):
+<br>
 
 The limit as ( x ) approaches negative infinity for ( 2x^4 - 3x^3 + x + 6 ) is:
 
@@ -280,18 +255,26 @@ Even though ( x ) is negative, the highest power term ( x^4 )  will still lead t
 
 #
 
-### 2f) : The limit as ( x ) approaches infinity for ( 2x^5 - 3x^2 + 6 ) is: 
+### 2e)  **Limit Expression:** 
+
+2x^5 - 3x^2 + 6
+
+<br>
+
+The limit as ( x ) approaches infinity for ( 2x^5 - 3x^2 + 6 ) is: 
 
 The limit as ( x ) approaches negative infinity for ( 2x^4 - 3x^3 + x + 6 ) is: 
 
-$\lim_{x \to -\infty} (2x^4 - 3x^3 + x + 6) = \infty  Even though ( x ) is negative, y.
---
+$\lim_{x \to -\infty} (2x^4 - 3x^3 + x + 6) = \infty$
+
+Even though ( x ) is negative, y.
+
 
 #
 
-These processes demonstrates how limits help us understand the behavior of functions near points that might not be defined, by finding equivalent expressions that are easier to evaluate.
+## These processes above  demonstrates how limits help us understand the behavior of functions near points that might not be defined, by finding equivalent expressions that are easier to evaluate.
 
-#
+<br>
 
 ###### <p align="center"> [Copyright 2024 Quantum Software Development. Code released under the MIT License license.](https://github.com/Quantum-Software-Development/Math/blob/3bf8270ca09d3848f2bf22f9ac89368e52a2fb66/LICENSE)
 
