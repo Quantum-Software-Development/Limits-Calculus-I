@@ -6,13 +6,14 @@
 
  # <p align="center"> ✍️ Limits - Calculus I - Resolution of Mathematics Exercises
 
-<br>
+<br><br>
 
  <p align="center">
 <img src="https://github.com/Quantum-Software-Development/Math/assets/113218619/ed52f2ce-48f0-41d8-a973-611db792559a"/>
 
 <br><br>
 
+#
 
 ### <p align="center"> AI Data Science - PUCSP University - Math Repository - [Professor Eric Bacconi Gonçalves](https://www.linkedin.com/in/eric-bacconi-423137/)
 
