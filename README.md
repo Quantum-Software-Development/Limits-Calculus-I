@@ -262,12 +262,46 @@ $\lim_{x \to -\infty} (2x^4 - 3x^3 + x + 6) = \infty$
 
 Even though ( x ) is negative, y.
 
+#
+
+## [3.Calculate the Following Limits]()
+
+### 3a: Finding the limit of a polynomial function as x approaches infinity
+
+The given function is a polynomial function of the form: 
+
+$$f(x)=axn+bxn−1+cxn−2+...+dx+e$$
+
+<br>
+
+As x approaches infinity, the highest power of x in the function dominates the value of the function. This means that we can ignore all the lower-order terms, and simply consider the behavior of the highest-order term.
+In this case, the highest-order term is 2x4. As x approaches infinity, x4 also approaches infinity, and so the function f(x) also approaches infinity.
+
+Therefore, the limit of the function as x approaches infinity is infinity. We can write this mathematically as:
+
+$$x→∞lim x32x4−3x3+x+6 =0$$
 
 #
 
-## These processes above  demonstrates how limits help us understand the behavior of functions near points that might not be defined, by finding equivalent expressions that are easier to evaluate.
+### 3b:Finding the limit of a rational function as x approaches infinity
+
+The given function is a rational function of the form 
+
+$$f(x)=cxm+fxm−1+...+gx+haxn+bxn−1+...+dx+e$$
 
 <br>
+
+, where n > m. As x approaches infinity, the highest power of x in the numerator dominates the value of the numerator, and the highest power of x in the denominator dominates the value of the denominator.  This means that we can ignore all the lower-order terms, and simply consider the behavior of the highest-order terms.
+
+In this case, the highest-order term in the numerator is 2x4, and the highest-order term in the denominator is x3. 
+
+As x approaches infinity, 2x4 grows much faster than x3, and so the function f(x) approaches zero.
+
+#
+
+### These processes above  demonstrates how limits help us understand the behavior of functions near points that might not be defined, by finding equivalent expressions that are easier to evaluate.
+
+#
 
 ###### <p align="center"> [Copyright 2024 Quantum Software Development. Code released under the MIT License license.](https://github.com/Quantum-Software-Development/Math/blob/3bf8270ca09d3848f2bf22f9ac89368e52a2fb66/LICENSE)
 
@@ -310,47 +344,8 @@ Even though ( x ) is negative, y.
 
 
 
-<!--
- <br><br>
 
- ## 3.Calculate the Following Limits
 
-### 3a: Finding the limit of a polynomial function as x approaches infinity
-
-The given function is a polynomial function of the form: 
-
-<br>
-
-$$f(x)=axn+bxn−1+cxn−2+...+dx+e$$
-
-As x approaches infinity, the highest power of x in the function dominates the value of the function. This means that we can ignore all the lower-order terms, and simply consider the behavior of the highest-order term.
-In this case, the highest-order term is 2x4. As x approaches infinity, x4 also approaches infinity, and so the function f(x) also approaches infinity.
-
-Therefore, the limit of the function as x approaches infinity is infinity. We can write this mathematically as:
-
-<br>
-
-$$x→∞lim x32x4−3x3+x+6 =0$$
-
-#
-
-### 3b:Finding the limit of a rational function as x approaches infinity
-
-<br>
-
-The given function is a rational function of the form 
-
-<br>
-
-$$f(x)=cxm+fxm−1+...+gx+haxn+bxn−1+...+dx+e$$
-
-<br>
-
-, where n > m. As x approaches infinity, the highest power of x in the numerator dominates the value of the numerator, and the highest power of x in the denominator dominates the value of the denominator.  This means that we can ignore all the lower-order terms, and simply consider the behavior of the highest-order terms.
-
-In this case, the highest-order term in the numerator is 2x4, and the highest-order term in the denominator is x3. 
-
-As x approaches infinity, 2x4 grows much faster than x3, and so the function f(x) approaches zero.
 
 
 
