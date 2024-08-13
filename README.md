@@ -262,7 +262,7 @@ $\lim_{x \to -\infty} (2x^4 - 3x^3 + x + 6) = \infty$
 
 Even though ( x ) is negative, y.
 
-#
+<br>
 
 ## [3.Calculate the Following Limits]()
 
