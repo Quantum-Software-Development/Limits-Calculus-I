@@ -224,12 +224,11 @@ The limit of the expression is $$\frac{1}{2}$$
 
 ## [2. Solve the Limits:]()
 
-
 ### 2a):  **Limit Expression:** 
 
  $\lim_{x \to \infty} \frac{1}{x^2}$ 
 
-<BR> 
+<br> 
 
 The limit as ( x ) approaches infinity for ( $\frac{1}{{x^2}}$ ):
 
@@ -247,7 +246,7 @@ As ( x ) increases without bound, the value of ( \frac{1}{{x^2}} ) approaches 0 
 
 The limit as ( x ) approaches negative infinity for ( $\frac{1}{{x^2}}$ ) is: 
 
-\lim_{{x \to -\infty}} \frac{1}{{x^2}} = 0
+ $\lim_{x \to -\infty} \frac{1}{x^2}$ = 0
 
 As ( x ) decreases without bound, the value of ( $\frac{1}{{x^2}}$ ) approaches 0, similar to part a), because squaring a negative number results in a positive number, which grows larger.
 
