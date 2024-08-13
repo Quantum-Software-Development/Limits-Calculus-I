@@ -17,14 +17,11 @@
 
 ### <p align="center"> AI Data Science - PUCSP University - Math Repository - [Professor Eric Bacconi Gonçalves](https://www.linkedin.com/in/eric-bacconi-423137/)
 
+#
 
 <br>
 
-#
-
-
 ### <p align="center"> [![Sponsor Quantum Software Development](https://img.shields.io/badge/Sponsor-Quantum%20Software%20Development-brightgreen?logo=GitHub)](https://github.com/sponsors/Quantum-Software-Development)
-
 
 <br>
 
