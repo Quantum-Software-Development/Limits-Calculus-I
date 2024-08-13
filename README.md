@@ -260,7 +260,7 @@ $\lim_{x \to \infty} x^4$ 
 
 The limit as ( x ) approaches infinity for ( x^4 ) is: grows at an increasing rate and approaches infinity for ( x^4 ) is:
 
-\lim_{{x \to \infty}} x^4 = \infty
+$\lim_{x \to \infty} x^4$  = $\infty$
 
 Similar to the previous expressions, the term ( 2x^5 ) grows at a faster rate than the others, causing the expression to approach infinity.
 
