@@ -101,6 +101,7 @@ x^2 - 4x + 3 = (x - 1)(x - 3)
 $$
 
 So the limit becomes:
+
 $$
 \lim_{{x \to 1}} \frac{{(x - 1)(x - 3)}}{{x - 1}}
 $$
