@@ -33,7 +33,7 @@ $$lim_{{x \to 3}} \frac{{x^2 - 9}}{{x - 3}}$$
 
 <br>
 
-*  **Simplified Form:** The numerator  $$\large x^2 - 9$$, can be factored as (x + 3)(x - 3) ), which simplifies the expression to:
+**Simplified Form:** The numerator  $$\large x^2 - 9$$, can be factored as (x + 3)(x - 3) ), which simplifies the expression to:
 
 <br>
 
@@ -44,7 +44,7 @@ $$\\begin{align*}
 
 <br>
 
-*  [**Final Result:**]()
+[**Final Result:**]()
 
 Substituting ( x ) with 3, we get: 
 
@@ -52,9 +52,9 @@ $$\large  3 + 3 = 6$$
 
 <br>
 
-*  **Explanation:** The limit as ( x ) approaches 3 for the function $\large \frac{{x^2 - 9}}{{x - 3}}$ is 6.
+**Explanation:** The limit as ( x ) approaches 3 for the function $\large \frac{{x^2 - 9}}{{x - 3}}$ is 6.
 
-  This is because the factor ( x - 3 ) in the denominator cancels out with the same factor in the numerator, leaving ( x + 3 ) which evaluates to 6 when ( x ) is 3.
+This is because the factor ( x - 3 ) in the denominator cancels out with the same factor in the numerator, leaving ( x + 3 ) which evaluates to 6 when ( x ) is 3.
  
 #
 
@@ -64,25 +64,25 @@ $$\lim_{{x \to -7}} \frac{{49 - x^2}}{{7 + x}}$$
 
 <br>
 
-* **Simplified Form:** The numerator $\large ( 49 - x^2 )$ is a difference of squares and can be factored as $\large (7 + x)(7 - x)$.
+**Simplified Form:** The numerator $\large ( 49 - x^2 )$ is a difference of squares and can be factored as $\large (7 + x)(7 - x)$.
 
 <br>
 
-*  **This allows us to simplify the expression by canceling out the common factor of:**  $\large ( 7 + x )$ in the numerator and denominator:
+**This allows us to simplify the expression by canceling out the common factor of:**  $\large ( 7 + x )$ in the numerator and denominator:
 
 $$\large \lim_{{x \to -7}} (7 - x) $$
 
 <br>
 
-* [**Final Result:**]()
+[**Final Result:**]()
 
 When we substitute ( x ) with -7, the expression simplifies to: 7 - (-7) = 14
 
  <br>
 
-* **Explanation:** The limit of the function $(\Large \frac{{49 - x^2}}{{7 + x}} )$ as ( x ) approaches -7 is 14.
-  
-  This result is obtained because after canceling the common factor, we are left with ( 7 - x ), which equals 14 when ( x ) is -7.
+**Explanation:** The limit of the function $(\Large \frac{{49 - x^2}}{{7 + x}} )$ as ( x ) approaches -7 is 14.
+
+This result is obtained because after canceling the common factor, we are left with ( 7 - x ), which equals 14 when ( x ) is -7.
 
   #
 
@@ -137,9 +137,7 @@ $$\frac{1}{4}$$
 
 The limit of the function as ( x ) approaches 1 is simply $$\frac{1}{4}$$
 
-
 #
-
 
 ### 1f)    **Limit Expression:** 
 
@@ -165,7 +163,6 @@ $$\
 
 The limit of the function as ( x ) approaches 1 is simply $$\frac{1}{4}$$
 
-
 #
 
 ### 1g:  **Limit Expression:** 
@@ -186,10 +183,9 @@ $$\
 \end{align*}
 \$$
 
-
 [Final Result:]() 
- 
- The limit of the expression is $$\frac{1}{2}$$
+
+The limit of the expression is $$\frac{1}{2}$$
 
 #
 
@@ -209,7 +205,6 @@ is: $\lim_{{x \to \infty}} \frac{1}{{x^2}} = 0$ 
 As ( x ) increases without bound, the value of ( \frac{1}{{x^2}} ) approaches 0 because the denominator grows much faster than the numerator.
 
 #
-
 
 ### 2b)  **Limit Expression:** 
 
@@ -250,7 +245,6 @@ The limit as ( x ) approaches negative infinity for ( 2x^4 - 3x^3 + x + 6 ) is:
 $\lim_{x \to -\infty} (2x^4 - 3x^3 + x + 6) = \infty$ 
 
 Even though ( x ) is negative, the highest power term ( x^4 )  will still lead the expression to increase without bound because the even power makes it positive.
-
 
 #
 
