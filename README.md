@@ -86,23 +86,13 @@ This result is obtained because after canceling the common factor, we are left w
 
   #
 
-### 1c) **Limit Expression:** 
-
-$$lim_{{\Large \to 1}} \frac{{x^2 - 4x + 3}}{{x - 1}}$$n  
-
-
-```latex
-\[
-\lim_{{x \to 1}} \frac{{x^2 - 4x + 3}}{{x - 1}}
-\]
-```
-This will render as:
+### 1c) **Limit Expression:**
 
 $$
 \lim_{{x \to 1}} \frac{{x^2 - 4x + 3}}{{x - 1}}
 $$
 
-[Solution](0
+[Solution]()
 
 To solve the limit, we can factor the numerator:
 $$
