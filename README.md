@@ -95,6 +95,7 @@ $$
 [Solution]()
 
 To solve the limit, we can factor the numerator:
+
 $$
 x^2 - 4x + 3 = (x - 1)(x - 3)
 $$
