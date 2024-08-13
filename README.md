@@ -113,6 +113,7 @@ $$
 $$
 
 Now, we can directly substitute \( x = 1 \):
+
 $$
 1 - 3 = -2
 $$
@@ -171,7 +172,7 @@ The limit of the function as ( x ) approaches 1 is simply $$\frac{1}{4}$$
 
 #
 
-### 1f)    **Limit Expression:** 
+### 1f) **Limit Expression:** 
 
 $$\(\lim_{{x \to 3}} \frac{{x^3 - 27}}{{x^2 - 5x + 6}}\)$$
 
@@ -219,7 +220,7 @@ $$\
 
 The limit of the expression is $$\frac{1}{2}$$
 
-#
+<br>
 
 ## [2. Solve the Limits:]()
 
