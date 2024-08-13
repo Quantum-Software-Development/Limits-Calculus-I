@@ -118,6 +118,7 @@ $$
 $$
 
 Therefore, the limit is:
+
 $$
 \lim_{{x \to 1}} \frac{{x^2 - 4x + 3}}{{x - 1}} = -2
 $$
