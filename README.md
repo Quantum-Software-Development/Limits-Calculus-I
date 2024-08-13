@@ -70,7 +70,7 @@ $$\lim_{{x \to -7}} \frac{{49 - x^2}}{{7 + x}}$$
 
 **This allows us to simplify the expression by canceling out the common factor of:**  $\large ( 7 + x )$ in the numerator and denominator:
 
-$$\large \lim_{{x \to -7}} (7 - x) $$
+$$\large \lim_{{x \to -7}} (7 - x)$$
 
 <br>
 
@@ -187,7 +187,7 @@ $$\
 
 <br>
 
-[FINAL Result:]()
+[Final Result:]()
 
 The limit of the function as ( x ) approaches 1 is simply $$\frac{1}{4}$$
 
