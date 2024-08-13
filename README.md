@@ -90,8 +90,46 @@ This result is obtained because after canceling the common factor, we are left w
 
 $$lim_{{\Large \to 1}} \frac{{x^2 - 4x + 3}}{{x - 1}}$$n  
 
-<br>
 
+```latex
+\[
+\lim_{{x \to 1}} \frac{{x^2 - 4x + 3}}{{x - 1}}
+\]
+```
+This will render as:
+
+$$
+\lim_{{x \to 1}} \frac{{x^2 - 4x + 3}}{{x - 1}}
+$$
+
+[Solution](0
+
+To solve the limit, we can factor the numerator:
+$$
+x^2 - 4x + 3 = (x - 1)(x - 3)
+$$
+
+So the limit becomes:
+$$
+\lim_{{x \to 1}} \frac{{(x - 1)(x - 3)}}{{x - 1}}
+$$
+
+We can cancel out the \((x - 1)\) terms:
+$$
+\lim_{{x \to 1}} (x - 3)
+$$
+
+Now, we can directly substitute \( x = 1 \):
+$$
+1 - 3 = -2
+$$
+
+Therefore, the limit is:
+$$
+\lim_{{x \to 1}} \frac{{x^2 - 4x + 3}}{{x - 1}} = -2
+$$
+
+#
 
 ### 1d)   **Limit Expression:** 
 
