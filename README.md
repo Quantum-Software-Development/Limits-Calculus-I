@@ -107,6 +107,7 @@ $$
 $$
 
 We can cancel out the \((x - 1)\) terms:
+
 $$
 \lim_{{x \to 1}} (x - 3)
 $$
