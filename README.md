@@ -4,7 +4,7 @@
 <img src="https://github.com/Quantum-Software-Development/Math/assets/113218619/58c8c407-2971-4a65-9030-e25d76617687"/>
 -->
 
- # <p align="center"> ✍️ Limits - Calculus I - Resolution of Mathematics Exercises
+ ## <p align="center"> ✍️ Limits - Calculus I - Resolution of Mathematics Exercises
 
 <br><br>
 
@@ -15,7 +15,7 @@
 
 #
 
-### <p align="center"> AI Data Science - 1 Semester/20024 - PUCSP University - Math Repository - [Professor Eric Bacconi Gonçalves](https://www.linkedin.com/in/eric-bacconi-423137/)
+#### <p align="center"> AI Data Science - 1st Semester / 20024 - PUCSP University - Math Repository - [Professor Eric Bacconi Gonçalves](https://www.linkedin.com/in/eric-bacconi-423137/)
 
 #
 
