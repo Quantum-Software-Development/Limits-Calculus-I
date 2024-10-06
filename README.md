@@ -335,7 +335,7 @@ As x approaches infinity, 2x4 grows much faster than x3, and so the function f(x
 
 #
 
-###### <p align="center"> [Copyright 2024 Quantum Software Development. Code released under the MIT License license.](https://github.com/Quantum-Software-Development/Math/blob/3bf8270ca09d3848f2bf22f9ac89368e52a2fb66/LICENSE)
+###### <p align="center"> Copyright 2024 Quantum Software Development. Code released under the [MIT License license.](https://github.com/Quantum-Software-Development/Math/blob/3bf8270ca09d3848f2bf22f9ac89368e52a2fb66/LICENSE)
 
 
   
