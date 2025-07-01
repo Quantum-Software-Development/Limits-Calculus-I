@@ -35,7 +35,7 @@ jobs:
 
       # Step 3: Initialize CodeQL for scanning
       - name: Initialize CodeQL
-        uses: github/codeql-action/init@v3.28.18
+        uses: github/codeql-action/init@v3.29.1
         with:
           languages: javascript
 
